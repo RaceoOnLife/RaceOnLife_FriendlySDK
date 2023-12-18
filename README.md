@@ -81,7 +81,7 @@ _____
       <a href="https://t.me/udev_main">
         <img src="https://i.ibb.co.com/s2WhK6M/photo-2023-08-29-15-06-01.jpg" width="92" height="92" alt="udev" />
       </a>
-      <br>udev[Олег]
+      <br>  udev[Олег]  
     </td>
     <td align="center" width="48">
       <a href="https://t.me/meresse">
@@ -93,13 +93,13 @@ _____
       <a href="https://t.me/part1cle" >
         <img src="https://i.ibb.co.com/grcY8cj/MVn-QZa-BDdx-CLtc-W-6fkx-Td-FKz2jvhml-AWU3w-Yo-XKCK6-Yl71-j-BEr-VOe2y6d1-Q6ti14vh-I9-GDP3ahv3-Hu-U2j.jpg" width="92" height="92" alt="egor" />
       </a>
-      <br>egor[Егор]
+      <br>  egor[Егор]  
     </td>
-    <td align="center" width="92">
+    <td align="center" width="48">
       <a href="https://t.me/IstyManame" >
         <img src="https://i.ibb.co/rGPB4hT/Isty-Profile-Pic-Saturated.png" width="92" height="92" alt="Isty" />
       </a>
-      <br>Isty[Иван]
+      <br>   Isty[Иван]   
     </td>
   </tr>
 </table>
