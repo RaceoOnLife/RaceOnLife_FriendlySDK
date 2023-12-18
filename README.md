@@ -97,9 +97,9 @@ _____
     </td>
     <td align="center" width="48">
       <a href="https://t.me/IstyManame" >
-        <img src="https://i.ibb.co/rGPB4hT/Isty-Profile-Pic-Saturated.png" width="92" height="92" alt="Isty Maname" />
+        <img src="https://i.ibb.co/rGPB4hT/Isty-Profile-Pic-Saturated.png" width="92" height="92" alt="Isty" />
       </a>
-      <br>Isty Maname[Иван]
+      <br>Isty[Иван]
     </td>
   </tr>
 </table>
