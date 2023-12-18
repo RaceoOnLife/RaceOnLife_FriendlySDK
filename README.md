@@ -67,37 +67,37 @@ _____
   <tr>
     <td align="center" width="48">
       <a href="https://t.me/i_love_okpolllka">
-        <img src="https://i.ibb.co.com/cxMGBBk/GCVVMSDX0-QTnncnlfw-Lup-ZR4cn-Gs0-EGNC-BEGvs-ULgml2b-URZ82ptylp-BHyb-BTpr96kfo-IYh-DDNWsf-VRAgihf0nn.jpg" width="96" height="96" alt="I_love_okpolllka" />
+        <img src="https://i.ibb.co.com/cxMGBBk/GCVVMSDX0-QTnncnlfw-Lup-ZR4cn-Gs0-EGNC-BEGvs-ULgml2b-URZ82ptylp-BHyb-BTpr96kfo-IYh-DDNWsf-VRAgihf0nn.jpg" width="92" height="92" alt="I_love_okpolllka" />
       </a>
       <br>I_love_okpolllka[Юра]
     </td>
     <td align="center" width="48">
       <a href="https://t.me/folleant">
-        <img src="https://i.ibb.co.com/ysscFSB/photo-2023-07-02-06-49-26.jpg" width="96" height="96" alt="folleant" />
+        <img src="https://i.ibb.co.com/ysscFSB/photo-2023-07-02-06-49-26.jpg" width="92" height="92" alt="folleant" />
       </a>
       <br>folleant[Александр]
     </td>
     <td align="center" width="48">
       <a href="https://t.me/udev_main">
-        <img src="https://i.ibb.co.com/s2WhK6M/photo-2023-08-29-15-06-01.jpg" width="96" height="96" alt="udev" />
+        <img src="https://i.ibb.co.com/s2WhK6M/photo-2023-08-29-15-06-01.jpg" width="92" height="92" alt="udev" />
       </a>
       <br>udev[Олег]
     </td>
     <td align="center" width="48">
       <a href="https://t.me/meresse">
-        <img src="https://i.ibb.co.com/bHLL9pq/ey3wvz-MKi58-PVer-PB5-G5-JQi-Mt-Wz-Ddq-MEVr8-V3-LZ5ok654-LTmc-K5c-RXYWSI2-I0y6-Vj-Pyn0-S31-Pl-VYQNP.jpg" width="96" height="96" alt="meresse" />
+        <img src="https://i.ibb.co.com/bHLL9pq/ey3wvz-MKi58-PVer-PB5-G5-JQi-Mt-Wz-Ddq-MEVr8-V3-LZ5ok654-LTmc-K5c-RXYWSI2-I0y6-Vj-Pyn0-S31-Pl-VYQNP.jpg" width="92" height="92" alt="meresse" />
       </a>
       <br>meresse[Мересс]
     </td>
     <td align="center" width="48">
       <a href="https://t.me/part1cle" >
-        <img src="https://i.ibb.co.com/grcY8cj/MVn-QZa-BDdx-CLtc-W-6fkx-Td-FKz2jvhml-AWU3w-Yo-XKCK6-Yl71-j-BEr-VOe2y6d1-Q6ti14vh-I9-GDP3ahv3-Hu-U2j.jpg" width="96" height="96" alt="egor" />
+        <img src="https://i.ibb.co.com/grcY8cj/MVn-QZa-BDdx-CLtc-W-6fkx-Td-FKz2jvhml-AWU3w-Yo-XKCK6-Yl71-j-BEr-VOe2y6d1-Q6ti14vh-I9-GDP3ahv3-Hu-U2j.jpg" width="92" height="92" alt="egor" />
       </a>
       <br>egor[Егор]
     </td>
     <td align="center" width="48">
       <a href="https://t.me/IstyManame" >
-        <img src="https://i.ibb.co.com/grcY8cj/MVn-QZa-BDdx-CLtc-W-6fkx-Td-FKz2jvhml-AWU3w-Yo-XKCK6-Yl71-j-BEr-VOe2y6d1-Q6ti14vh-I9-GDP3ahv3-Hu-U2j.jpg" width="96" height="96" alt="Isty Maname" />
+        <img src="https://i.ibb.co/rGPB4hT/Isty-Profile-Pic-Saturated.png" width="92" height="92" alt="Isty Maname" />
       </a>
       <br>Isty Maname[Иван]
     </td>
