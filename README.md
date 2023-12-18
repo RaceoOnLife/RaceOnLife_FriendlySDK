@@ -96,8 +96,8 @@ _____
       <br>egor[Егор]
     </td>
     <td align="center" width="48">
-      <a href="https://ibb.co/jvKCgYB" >
-        <img src="" width="96" height="96" alt="egor" />
+      <a href="https://t.me/IstyManame" >
+        <img src="https://ibb.co/jvKCgYB" width="96" height="96" alt="egor" />
       </a>
       <br>Isty Maname[Иван]
     </td>
