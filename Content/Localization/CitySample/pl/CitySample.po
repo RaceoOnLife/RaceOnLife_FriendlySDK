@@ -1,0 +1,1863 @@
+﻿# CitySample Polish translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: CitySample\n"
+"POT-Creation-Date: 2022-02-15 19:31\n"
+"PO-Revision-Date: 2022-02-15 19:31\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Key:	025E366F4C189C99FCCE1D90E330AC0F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_RightStick.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_RightStick.Text
+msgctxt ",025E366F4C189C99FCCE1D90E330AC0F"
+msgid "Look"
+msgstr "Rozglądanie się"
+
+#. Key:	02D7AE59497E01831EEC60B3CDE3DFFE
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.Default__BP_CitySampleMenu_OptionSelector_C.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.Default__BP_CitySampleMenu_OptionSelector_C.PromptTextConfigLeft.Text
+msgctxt ",02D7AE59497E01831EEC60B3CDE3DFFE"
+msgid "Label"
+msgstr "Label"
+
+#. Key:	049303684C70207C638064942EA726E2
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(7 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(7 - Value).NumericValueLabels
+msgctxt ",049303684C70207C638064942EA726E2"
+msgid "-0.67"
+msgstr "-0.67"
+
+#. Key:	0497ACF74B9D22425F63179E4E85603D
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector_NoPrompt.Default__BP_CitySampleMenu_OptionSelector_NoPrompt_C.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector_NoPrompt.Default__BP_CitySampleMenu_OptionSelector_NoPrompt_C.PromptTextConfigLeft.Text
+msgctxt ",0497ACF74B9D22425F63179E4E85603D"
+msgid "Label"
+msgstr "Label"
+
+#. Key:	0535FC614144A07D3EF595B451E78F83
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.BP_CitySampleMenu_OptionSelector_C:WidgetTree.PromptTextLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.BP_CitySampleMenu_OptionSelector_C:WidgetTree.PromptTextLeft.Text
+msgctxt ",0535FC614144A07D3EF595B451E78F83"
+msgid "Title"
+msgstr "Tytuł"
+
+#. Key:	058DD35041E4B8544A48A991F884A451
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.TextBlock_122.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.TextBlock_122.Text
+msgctxt ",058DD35041E4B8544A48A991F884A451"
+msgid "/System"
+msgstr "/System"
+
+#. Key:	059ACFA34D3DB7602A678CAB3166BD28
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_FaceTop.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_FaceTop.Text
+msgctxt ",059ACFA34D3DB7602A678CAB3166BD28"
+msgid "Fly"
+msgstr "Latanie"
+
+#. Key:	07D4CEF04EA481696C0AF39D5353E784
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(45 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(45 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",07D4CEF04EA481696C0AF39D5353E784"
+msgid "X"
+msgstr "X"
+
+#. Key:	0A54765F424762D32DB47FAC9F82963E
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_FaceLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_FaceLeft.Text
+msgctxt ",0A54765F424762D32DB47FAC9F82963E"
+msgid "Hide Controls"
+msgstr "Schowaj informacje o sterowaniu"
+
+#. Key:	0BD6CA0347585CF45E6BCC951EB066E4
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(2).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(2).CustomLabels
+msgctxt ",0BD6CA0347585CF45E6BCC951EB066E4"
+msgid "Instances"
+msgstr "Instancje"
+
+#. Key:	0CF5CF5442B92AD6F7C782A12000D632
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(4).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(4).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",0CF5CF5442B92AD6F7C782A12000D632"
+msgid "Close"
+msgstr "Zamknij"
+
+#. Key:	0D243719445C7329445335B8499F202C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControlsHeader.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControlsHeader.Text
+msgctxt ",0D243719445C7329445335B8499F202C"
+msgid "WALKING"
+msgstr "CHODZENIE"
+
+#. Key:	0FBE5150402EB19B7C04E4B15ED197D2
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Main.BP_CitySampleOptions_Main_C:WidgetTree.ResumeBtn.PromptTextConfigTop.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Main.BP_CitySampleOptions_Main_C:WidgetTree.ResumeBtn.PromptTextConfigTop.Text
+msgctxt ",0FBE5150402EB19B7C04E4B15ED197D2"
+msgid "SUBMIT"
+msgstr "POTWIERDŹ"
+
+#. Key:	10293AC34E2755ACD11FFF9B269C09E1
+#. SourceLocation:	/Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.BP_VehicleBase_Drivable_C:BP_CarExitInteraction_GEN_VARIABLE.PromptText
+#: /Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.BP_VehicleBase_Drivable_C:BP_CarExitInteraction_GEN_VARIABLE.PromptText
+msgctxt ",10293AC34E2755ACD11FFF9B269C09E1"
+msgid "Exit Car"
+msgstr "Wyjdź z pojazdu"
+
+#. Key:	12A9D280482D908D3E19E9BD72D25E78
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(1 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(1 - Value).InputKeyDescriptionOverrides
+msgctxt ",12A9D280482D908D3E19E9BD72D25E78"
+msgid "Speed Up"
+msgstr "Przyspieszenie"
+
+#. Key:	1510F78542277A230B5EF3BFC680F318
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(12).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(12).CustomLabels
+msgctxt ",1510F78542277A230B5EF3BFC680F318"
+msgid "85"
+msgstr "85"
+
+#. Key:	15E64A254D34EABD6E53AEB871D77DCE
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.PromptTextConfigCenter.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.PromptTextConfigCenter.Text
+msgctxt ",15E64A254D34EABD6E53AEB871D77DCE"
+msgid "RS"
+msgstr "Prawy drążek"
+
+#. Key:	16C4EE4C4AB0D63E9B5B32A68EF6D928
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.Default__BP_CitySampleMenu_OptionRadio_C.PromptTextConfigRight.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.Default__BP_CitySampleMenu_OptionRadio_C.PromptTextConfigRight.Text
+msgctxt ",16C4EE4C4AB0D63E9B5B32A68EF6D928"
+msgid "Option"
+msgstr "Opcje"
+
+#. Key:	176955A64422F7079E5B139D08BE7571
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(4).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(4).CustomLabels
+msgctxt ",176955A64422F7079E5B139D08BE7571"
+msgid "5.6"
+msgstr "5,6"
+
+#. Key:	19BEB28E4634C27EA2370BB03210B139
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.TextBlock.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.TextBlock.Text
+msgctxt ",19BEB28E4634C27EA2370BB03210B139"
+msgid "Controller Mapping"
+msgstr "Mapowanie kontrolera"
+
+#. Key:	1B8B5C1A4EBE62350A07D38F41070BC8
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(3).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(3).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",1B8B5C1A4EBE62350A07D38F41070BC8"
+msgid "Close"
+msgstr "Zamknij"
+
+#. Key:	1C5E4CEA4F1C5FF462924DB865C4EC26
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.NumericRangeCustomization(0).NumericRangeCustomization.Suffix
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.NumericRangeCustomization(0).NumericRangeCustomization.Suffix
+msgctxt ",1C5E4CEA4F1C5FF462924DB865C4EC26"
+msgid " m"
+msgstr " m"
+
+#. Key:	1D0BC1C347F28FF912704A8B76BAF73B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.LightTB.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.LightTB.Text
+msgctxt ",1D0BC1C347F28FF912704A8B76BAF73B"
+msgid "FOCUS"
+msgstr "SKUPIENIE"
+
+#. Key:	1D963EA544B01158C607A896F91B7ECE
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.CustomLabels(0).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.CustomLabels(0).CustomLabels
+msgctxt ",1D963EA544B01158C607A896F91B7ECE"
+msgid "Auto"
+msgstr "Autom."
+
+#. Key:	1EDCE9F04323A5AFC230E58DB2A1460E
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(0).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(0).CustomLabels
+msgctxt ",1EDCE9F04323A5AFC230E58DB2A1460E"
+msgid "0.1"
+msgstr "0.1"
+
+#. Key:	1FC92B3F42FA0452D3FA55A441078C5D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.ParkedCars.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.ParkedCars.PromptTextConfigLeft.Text
+msgctxt ",1FC92B3F42FA0452D3FA55A441078C5D"
+msgid "Parked Cars"
+msgstr "Zaparkowane samochody"
+
+#. Key:	1FCDDFED453AD9ABECAF68BBCCC4AB7E
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(1).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(1).CustomLabels
+msgctxt ",1FCDDFED453AD9ABECAF68BBCCC4AB7E"
+msgid "2"
+msgstr "2"
+
+#. Key:	1FD1C6DC46CB659D7A6E68872FE7BCBE
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(0 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(0 - Value).InputKeyDescriptionOverrides
+msgctxt ",1FD1C6DC46CB659D7A6E68872FE7BCBE"
+msgid "Speed Down"
+msgstr "Zwolnienie"
+
+#. Key:	205540A543BB5D6401813599BE27108F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControlsHeader.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControlsHeader.Text
+msgctxt ",205540A543BB5D6401813599BE27108F"
+msgid "PHOTO MODE"
+msgstr "TRYB FOTOGRAFICZNY"
+
+#. Key:	21684A1A433AAFF16B9EADB18982604F
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.Default__BP_CitySampleMenu_OptionSlider_C.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.Default__BP_CitySampleMenu_OptionSlider_C.PromptTextConfigLeft.Text
+msgctxt ",21684A1A433AAFF16B9EADB18982604F"
+msgid "Label"
+msgstr "Label"
+
+#. Key:	21A26EE44959D03667D15587FF4DCFE7
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(40 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(40 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",21A26EE44959D03667D15587FF4DCFE7"
+msgid "→"
+msgstr "→"
+
+#. Key:	229C1E25404AB87C3A9302AC65283099
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(13 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(13 - Value).NumericValueLabels
+msgctxt ",229C1E25404AB87C3A9302AC65283099"
+msgid "+1.33"
+msgstr "+1.33"
+
+#. Key:	23EE31D444EDEEC0F820F887FE627E72
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_FaceLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_FaceLeft.Text
+msgctxt ",23EE31D444EDEEC0F820F887FE627E72"
+msgid "Hide Controls"
+msgstr "Schowaj informacje o sterowaniu"
+
+#. Key:	2439408E4473026E8965EB91D8B82019
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(5 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(5 - Value).InputActionDescriptions
+msgctxt ",2439408E4473026E8965EB91D8B82019"
+msgid "Close"
+msgstr "Zamknij"
+
+#. Key:	2448B1B04D83A74B0FD7E586105A1161
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_FaceRight.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_FaceRight.Text
+msgctxt ",2448B1B04D83A74B0FD7E586105A1161"
+msgid "Handbrake"
+msgstr "Hamulec ręczny"
+
+#. Key:	250565D94E20EDCF6F488BBADE25828C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.SettingsSelector.PromptTextConfigBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.SettingsSelector.PromptTextConfigBottom.Text
+msgctxt ",250565D94E20EDCF6F488BBADE25828C"
+msgid "OPTIONS"
+msgstr "OPCJE"
+
+#. Key:	26D8801644312B6BB1F32FA9881AD94F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(4 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(4 - Value).NumericValueLabels
+msgctxt ",26D8801644312B6BB1F32FA9881AD94F"
+msgid "-1.67"
+msgstr "-1.67"
+
+#. Key:	28DF137C4866DE4A87F5B18F92356429
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(29 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(29 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",28DF137C4866DE4A87F5B18F92356429"
+msgid "L-SHIFT"
+msgstr "L-SHIFT"
+
+#. Key:	295C28D1488CB4F75E724FB4BB8756A6
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.BP_CitySampleMenu_OptionRadio_C:WidgetTree.OffTB.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.BP_CitySampleMenu_OptionRadio_C:WidgetTree.OffTB.Text
+msgctxt ",295C28D1488CB4F75E724FB4BB8756A6"
+msgid "Off"
+msgstr "Wył."
+
+#. Key:	29BC778E41855489E46AF28EAE99A061
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.PostProcessing.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.PostProcessing.PromptTextConfigLeft.Text
+msgctxt ",29BC778E41855489E46AF28EAE99A061"
+msgid "Post-processing Filter"
+msgstr ""
+
+#. Key:	2EF6A1C84BCDA6771C891198865F9706
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(41 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(41 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",2EF6A1C84BCDA6771C891198865F9706"
+msgid "↑"
+msgstr "↑"
+
+#. Key:	32D854C04EAC16EBEE83979970924853
+#. SourceLocation:	/Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(2 - Value).InputActionDescriptions
+#: /Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(2 - Value).InputActionDescriptions
+msgctxt ",32D854C04EAC16EBEE83979970924853"
+msgid "Handbrake"
+msgstr "Hamulec ręczny"
+
+#. Key:	333763E642868DDA5C3661917EF35925
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_RightShoulder.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_RightShoulder.Text
+msgctxt ",333763E642868DDA5C3661917EF35925"
+msgid "Speed Up"
+msgstr "Przyspieszenie"
+
+#. Key:	35813C264E70D0FDD1900695CF01FBE4
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.HapticFeedback.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.HapticFeedback.PromptTextConfigLeft.Text
+msgctxt ",35813C264E70D0FDD1900695CF01FBE4"
+msgid "Haptic Feedback"
+msgstr ""
+
+#. Key:	35A63A16434780BE013B28B80E20FC8C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(0).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(0).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",35A63A16434780BE013B28B80E20FC8C"
+msgid "Confirm"
+msgstr "Potwierdź"
+
+#. Key:	35AD0E60419ED4A72CCD26BE930B7C93
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_RightStick.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_RightStick.Text
+msgctxt ",35AD0E60419ED4A72CCD26BE930B7C93"
+msgid "Look"
+msgstr "Rozglądanie się"
+
+#. Key:	376311234CA302267CD452910619BACF
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(8).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(8).CustomLabels
+msgctxt ",376311234CA302267CD452910619BACF"
+msgid "40"
+msgstr "40"
+
+#. Key:	37D686C045C2981B3545CD87347B1F45
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.Speed_Right.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.Speed_Right.Text
+msgctxt ",37D686C045C2981B3545CD87347B1F45"
+msgid "0"
+msgstr "0"
+
+#. Key:	3A09157C4DE51B0BC06AD8B32C90C96D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.VisualizeMassEntities.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.VisualizeMassEntities.PromptTextConfigLeft.Text
+msgctxt ",3A09157C4DE51B0BC06AD8B32C90C96D"
+msgid "Crowd & Traffic"
+msgstr "Tłum i ruch drogowy"
+
+#. Key:	3D35D327411121D5B27C01AA55CB95FA
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_RightTrigger.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_RightTrigger.Text
+msgctxt ",3D35D327411121D5B27C01AA55CB95FA"
+msgid "Hold To Run"
+msgstr "Przytrzymaj, by biec"
+
+#. Key:	3DC3E40E468F134D605FA286516EE483
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(5 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(5 - Value).InputKeyDescriptionOverrides
+msgctxt ",3DC3E40E468F134D605FA286516EE483"
+msgid "Altitude Up"
+msgstr "Wysokość w górę"
+
+#. Key:	3EAE1EC542BDED2855C486997F190E82
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.WorldSettingsTabHeaderText.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.WorldSettingsTabHeaderText.Text
+msgctxt ",3EAE1EC542BDED2855C486997F190E82"
+msgid "World Settings"
+msgstr "Ustawienia świata"
+
+#. Key:	4082652D444C34101C96D691DC7D38C0
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(4).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(4).CustomLabels
+msgctxt ",4082652D444C34101C96D691DC7D38C0"
+msgid "4"
+msgstr "4"
+
+#. Key:	413B7C594843DEDB82B5A99F8ADB4922
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(12 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(12 - Value).NumericValueLabels
+msgctxt ",413B7C594843DEDB82B5A99F8ADB4922"
+msgid "+1.00"
+msgstr "+1.00"
+
+#. Key:	41B59D054BB59B7D0B1C8E9A2CA4B17B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.MapSelector.PromptTextConfigBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.MapSelector.PromptTextConfigBottom.Text
+msgctxt ",41B59D054BB59B7D0B1C8E9A2CA4B17B"
+msgid "MAP"
+msgstr "MAPA"
+
+#. Key:	461A185C4E4405563909AA95016B56D1
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(23 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(23 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",461A185C4E4405563909AA95016B56D1"
+msgid "D"
+msgstr "D"
+
+#. Key:	4A46D30B4FB258E278422AAAAE868685
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.WorldSelector.PromptTextConfigBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.WorldSelector.PromptTextConfigBottom.Text
+msgctxt ",4A46D30B4FB258E278422AAAAE868685"
+msgid "WORLD"
+msgstr "ŚWIAT"
+
+#. Key:	4B2EBA974EA11678DE504B99FC426C61
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(18 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(18 - Value).NumericValueLabels
+msgctxt ",4B2EBA974EA11678DE504B99FC426C61"
+msgid "+3.00"
+msgstr "+3.00"
+
+#. Key:	4E0E77694CE4A0CDF4F1958ED7C1C4C2
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.BP_CitySampleMenu_OptionSelector_C:WidgetTree.ValueText.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.BP_CitySampleMenu_OptionSelector_C:WidgetTree.ValueText.Text
+msgctxt ",4E0E77694CE4A0CDF4F1958ED7C1C4C2"
+msgid "Value"
+msgstr "Wartość"
+
+#. Key:	4EB5B67E4E97E03418EB68BD6F07A780
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(16 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(16 - Value).NumericValueLabels
+msgctxt ",4EB5B67E4E97E03418EB68BD6F07A780"
+msgid "+2.33"
+msgstr "+2.33"
+
+#. Key:	4ED68A9E47D74ACAFBD9469FCA07D185
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.ValueLabelPrefix
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.ValueLabelPrefix
+msgctxt ",4ED68A9E47D74ACAFBD9469FCA07D185"
+msgid "f/"
+msgstr "f/"
+
+#. Key:	4F2A540B4AB3C94322066A948AD88F90
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(22 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(22 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",4F2A540B4AB3C94322066A948AD88F90"
+msgid "S"
+msgstr "S"
+
+#. Key:	4FD998014C7230FE2399E59D1DCA7961
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(25 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(25 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",4FD998014C7230FE2399E59D1DCA7961"
+msgid "E"
+msgstr "E"
+
+#. Key:	502E620541B91E1B515143830C6B382D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_LeftShoulder.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_LeftShoulder.Text
+msgctxt ",502E620541B91E1B515143830C6B382D"
+msgid "Speed Down"
+msgstr "Zwolnienie"
+
+#. Key:	50822610401105FC574379B3B87A0C62
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NightMode.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NightMode.PromptTextConfigLeft.Text
+msgctxt ",50822610401105FC574379B3B87A0C62"
+msgid "Night Mode"
+msgstr ""
+
+#. Key:	515BE7054FD9FA08C07DCD8CFB3F55E0
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.BP_CitySampleMenu_OptionSlider_C:WidgetTree.PromptTextLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.BP_CitySampleMenu_OptionSlider_C:WidgetTree.PromptTextLeft.Text
+msgctxt ",515BE7054FD9FA08C07DCD8CFB3F55E0"
+msgid "Label"
+msgstr "Label"
+
+#. Key:	532A1D5A4AAD316089E5E28CC337B6E6
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputKeyDescriptionOverrides(1 - Value).InputKeyDescriptionOverrides
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputKeyDescriptionOverrides(1 - Value).InputKeyDescriptionOverrides
+msgctxt ",532A1D5A4AAD316089E5E28CC337B6E6"
+msgid "Altitude Down"
+msgstr "Wysokość w dół"
+
+#. Key:	540089F64051E02C37E6D78BBED78DD6
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionButton.Default__BP_CitySampleMenu_OptionButton_C.PromptTextConfigCenter.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionButton.Default__BP_CitySampleMenu_OptionButton_C.PromptTextConfigCenter.Text
+msgctxt ",540089F64051E02C37E6D78BBED78DD6"
+msgid "TITLE"
+msgstr "TITLE"
+
+#. Key:	540FA23B4F92F41A450BBD8F0EF1634B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_RightTrigger.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_RightTrigger.Text
+msgctxt ",540FA23B4F92F41A450BBD8F0EF1634B"
+msgid "Throttle"
+msgstr "Gaz"
+
+#. Key:	544BCE724B1F4D90C2A963964EFADE5B
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.BP_CitySampleMenu_OptionSlider_C:WidgetTree.ValueText.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.BP_CitySampleMenu_OptionSlider_C:WidgetTree.ValueText.Text
+msgctxt ",544BCE724B1F4D90C2A963964EFADE5B"
+msgid "Value"
+msgstr "Wartość"
+
+#. Key:	5499BFD3435A8C3BF2AAB1AB3150B6D0
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputKeyDescriptionOverrides(0 - Value).InputKeyDescriptionOverrides
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputKeyDescriptionOverrides(0 - Value).InputKeyDescriptionOverrides
+msgctxt ",5499BFD3435A8C3BF2AAB1AB3150B6D0"
+msgid "Take Photo"
+msgstr "Zrób zdjęcie"
+
+#. Key:	54C2DDAF4F2ED64FB85DA582D9A39D9E
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.ControllerTabHeaderText.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.ControllerTabHeaderText.Text
+msgctxt ",54C2DDAF4F2ED64FB85DA582D9A39D9E"
+msgid "Controller Settings"
+msgstr "Ustawienia sterowania"
+
+#. Key:	5588873F407BC38992F9C494A3EDD3E2
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(3 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(3 - Value).InputKeyDescriptionOverrides
+msgctxt ",5588873F407BC38992F9C494A3EDD3E2"
+msgid "Altitude Up"
+msgstr "Wysokość w górę"
+
+#. Key:	55B203CA468D9430EFFDDABCBC34F81A
+#. SourceLocation:	/Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(3 - Value).InputActionDescriptions
+#: /Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(3 - Value).InputActionDescriptions
+msgctxt ",55B203CA468D9430EFFDDABCBC34F81A"
+msgid "Exit Vehicle"
+msgstr "Wyjdź z pojazdu"
+
+#. Key:	5F6B403047FE48AE60110390801515C8
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(5 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(5 - Value).NumericValueLabels
+msgctxt ",5F6B403047FE48AE60110390801515C8"
+msgid "-1.33"
+msgstr "-1.33"
+
+#. Key:	60F712CF40924AE57EE5F9AB4CEAAADB
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.SpeedBackground.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.SpeedBackground.Text
+msgctxt ",60F712CF40924AE57EE5F9AB4CEAAADB"
+msgid "000"
+msgstr "000"
+
+#. Key:	6224CE764ADA84CB7C4714BEBE9B3182
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(6 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(6 - Value).InputKeyDescriptionOverrides
+msgctxt ",6224CE764ADA84CB7C4714BEBE9B3182"
+msgid "Speed Up"
+msgstr "Przyspieszenie"
+
+#. Key:	63B6379A43CABB33D323429D01DCBACF
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector_NoPrompt.BP_CitySampleMenu_OptionSelector_NoPrompt_C:WidgetTree.ValueText.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector_NoPrompt.BP_CitySampleMenu_OptionSelector_NoPrompt_C:WidgetTree.ValueText.Text
+msgctxt ",63B6379A43CABB33D323429D01DCBACF"
+msgid "Value"
+msgstr "Wartość"
+
+#. Key:	64D4B45841E46D4AA98BD4886664C81D
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector_NoPrompt.Default__BP_CitySampleMenu_OptionSelector_NoPrompt_C.PromptTextConfigRight.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector_NoPrompt.Default__BP_CitySampleMenu_OptionSelector_NoPrompt_C.PromptTextConfigRight.Text
+msgctxt ",64D4B45841E46D4AA98BD4886664C81D"
+msgid "Option"
+msgstr "Opcje"
+
+#. Key:	64E8EB9A430BA0C559AF3E8F9CF2ADFE
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(3).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(3).CustomLabels
+msgctxt ",64E8EB9A430BA0C559AF3E8F9CF2ADFE"
+msgid "4"
+msgstr "4"
+
+#. Key:	6681B35B417687FF09B302BD52399113
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.ValueLabelSuffix
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.ValueLabelSuffix
+msgctxt ",6681B35B417687FF09B302BD52399113"
+msgid " mm"
+msgstr " mm"
+
+#. Key:	685B04704F5393CE800B7080F6106170
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(31 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(31 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",685B04704F5393CE800B7080F6106170"
+msgid "ENTER"
+msgstr "ENTER"
+
+#. Key:	6A7E8D9E417C477A6F827F8F44D568C1
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(42 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(42 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",6A7E8D9E417C477A6F827F8F44D568C1"
+msgid "↓"
+msgstr "↓"
+
+#. Key:	6ADFC70041C38113261131B4CE0892C8
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputKeyDescriptionOverrides(2 - Value).InputKeyDescriptionOverrides
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputKeyDescriptionOverrides(2 - Value).InputKeyDescriptionOverrides
+msgctxt ",6ADFC70041C38113261131B4CE0892C8"
+msgid "Altitude Up"
+msgstr "Wysokość w górę"
+
+#. Key:	6B69129041258B5A3CB242A8AE3B3425
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(21 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(21 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",6B69129041258B5A3CB242A8AE3B3425"
+msgid "A"
+msgstr "A"
+
+#. Key:	6D3891224C59F62D7C4CA0B2E08E4FA5
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(0).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(0).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",6D3891224C59F62D7C4CA0B2E08E4FA5"
+msgid "Close"
+msgstr "Zamknij"
+
+#. Key:	6E10EA2A4FBA9E4E619B27944B33B868
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(2).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(2).CustomLabels
+msgctxt ",6E10EA2A4FBA9E4E619B27944B33B868"
+msgid "18"
+msgstr "18"
+
+#. Key:	6F46076B4216131112976EBB81BD854B
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(39 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(39 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",6F46076B4216131112976EBB81BD854B"
+msgid "←"
+msgstr "←"
+
+#. Key:	6F72B7AE4E6E78522A5D38927551DC36
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(11 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(11 - Value).NumericValueLabels
+msgctxt ",6F72B7AE4E6E78522A5D38927551DC36"
+msgid "+0.67"
+msgstr "+0.67"
+
+#. Key:	6FA827CD4E0742AD505B3081A81A3DD3
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControlsHeader.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControlsHeader.Text
+msgctxt ",6FA827CD4E0742AD505B3081A81A3DD3"
+msgid "DRONE"
+msgstr "DRON"
+
+#. Key:	70C2B85042E2BED7D4DF7988A724B162
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.LeftToggle.ButtonImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.LeftToggle.ButtonImageConfig.LabelTextConfig.Text
+msgctxt ",70C2B85042E2BED7D4DF7988A724B162"
+msgid "["
+msgstr "["
+
+#. Key:	73C10EC6432E6097984E3A99A317304F
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(35 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(35 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",73C10EC6432E6097984E3A99A317304F"
+msgid "U"
+msgstr "U"
+
+#. Key:	75099CE449D49E32CEF0A5A34275582B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.NumericRangeCustomization(2).NumericRangeCustomization.Suffix
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.NumericRangeCustomization(2).NumericRangeCustomization.Suffix
+msgctxt ",75099CE449D49E32CEF0A5A34275582B"
+msgid " m"
+msgstr " m"
+
+#. Key:	75105B3E4A23B16ED70B329B0515ABA1
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.InvertAxis.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.InvertAxis.PromptTextConfigLeft.Text
+msgctxt ",75105B3E4A23B16ED70B329B0515ABA1"
+msgid "Invert Vertical Axis"
+msgstr "Odwrócenie osi pionowej"
+
+#. Key:	795BA01D450BE595BF831180D5673902
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_FaceLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_FaceLeft.Text
+msgctxt ",795BA01D450BE595BF831180D5673902"
+msgid "Hide UI"
+msgstr "Ukryj interfejs"
+
+#. Key:	7992EBF8451591CAFB2CB89103128B36
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.Speed_Left.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.Speed_Left.Text
+msgctxt ",7992EBF8451591CAFB2CB89103128B36"
+msgid "0"
+msgstr "0"
+
+#. Key:	79F561554AD0BAEC5C545797B95979EB
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.BP_CitySampleMenu_OptionRadio_C:WidgetTree.OnTB.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.BP_CitySampleMenu_OptionRadio_C:WidgetTree.OnTB.Text
+msgctxt ",79F561554AD0BAEC5C545797B95979EB"
+msgid "On"
+msgstr "Wł."
+
+#. Key:	7B0DC0E642ACCBBE7AB6CEABF2BFDB14
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(2).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(2).CustomLabels
+msgctxt ",7B0DC0E642ACCBBE7AB6CEABF2BFDB14"
+msgid "2.8"
+msgstr "2,8"
+
+#. Key:	7B3FD8494B77CC1D8AEF7C8E94A8D565
+#. SourceLocation:	/Game/Gameplay/Driving/BP_CarExitInteraction.Default__BP_CarExitInteraction_C.PromptText
+#: /Game/Gameplay/Driving/BP_CarExitInteraction.Default__BP_CarExitInteraction_C.PromptText
+msgctxt ",7B3FD8494B77CC1D8AEF7C8E94A8D565"
+msgid "Drive"
+msgstr "Prowadź"
+
+#. Key:	7D4D32D840A7D750E7F047B1F112BC54
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(6).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(6).CustomLabels
+msgctxt ",7D4D32D840A7D750E7F047B1F112BC54"
+msgid "16"
+msgstr "16"
+
+#. Key:	7EDD06234292AB7D6EBF4EBDFEA29017
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(1).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(1).CustomLabels
+msgctxt ",7EDD06234292AB7D6EBF4EBDFEA29017"
+msgid "Primitives"
+msgstr "Prymitywy"
+
+#. Key:	7EE958F74BDA47F06E65D7B6D528C27C
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySamplePlayerCharacter.Default__BP_CitySamplePlayerCharacter_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/Gameplay/Character/BP_CitySamplePlayerCharacter.Default__BP_CitySamplePlayerCharacter_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",7EE958F74BDA47F06E65D7B6D528C27C"
+msgid "Fly"
+msgstr "Latanie"
+
+#. Key:	805206764012DA35E5E32588E302DD31
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(38 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(38 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",805206764012DA35E5E32588E302DD31"
+msgid "Backspace"
+msgstr "Backspace"
+
+#. Key:	8254AEE64889D4251BAAB6B25B69F41E
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(5).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(5).CustomLabels
+msgctxt ",8254AEE64889D4251BAAB6B25B69F41E"
+msgid "8"
+msgstr "8"
+
+#. Key:	832543F149C4F00140B9D89A4CAE5D19
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(4).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(4).CustomLabels
+msgctxt ",832543F149C4F00140B9D89A4CAE5D19"
+msgid "24"
+msgstr "24"
+
+#. Key:	83387A5D4F3AD1199C221EB703DB0943
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(43 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(43 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",83387A5D4F3AD1199C221EB703DB0943"
+msgid "O"
+msgstr "O"
+
+#. Key:	843955A74A75B3E2E5466397DA28AD97
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(30 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(30 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",843955A74A75B3E2E5466397DA28AD97"
+msgid "R-SHIFT"
+msgstr "PRAWY SHIFT"
+
+#. Key:	8544B80B490D40A1CF87E9A33AFBACE9
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(10).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(10).CustomLabels
+msgctxt ",8544B80B490D40A1CF87E9A33AFBACE9"
+msgid "65"
+msgstr "65"
+
+#. Key:	861BB6AB436A3B9CE36DFFA01D54646F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.PromptTextConfigLeft.Text
+msgctxt ",861BB6AB436A3B9CE36DFFA01D54646F"
+msgid "Focal Length"
+msgstr "Ogniskowa"
+
+#. Key:	870825344E899CF62539A7B676560DF3
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(40 - Value).KeyButtonConfigMap.PromptConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(40 - Value).KeyButtonConfigMap.PromptConfig.Text
+msgctxt ",870825344E899CF62539A7B676560DF3"
+msgid "→"
+msgstr "→"
+
+#. Key:	871F56F04D2098B9798D939EB5E35F4C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.PhotoSelector.PromptTextConfigBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.PhotoSelector.PromptTextConfigBottom.Text
+msgctxt ",871F56F04D2098B9798D939EB5E35F4C"
+msgid "PHOTO"
+msgstr "ZDJĘCIE"
+
+#. Key:	881AFAF94266EE53272787806D2A5F5F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(8 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(8 - Value).NumericValueLabels
+msgctxt ",881AFAF94266EE53272787806D2A5F5F"
+msgid "-0.33"
+msgstr "-0.33"
+
+#. Key:	89412FCC49EA027A490B2098EEA42492
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.FocusTB_1.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.FocusTB_1.Text
+msgctxt ",89412FCC49EA027A490B2098EEA42492"
+msgid "DENSITY"
+msgstr "GĘSTOŚĆ"
+
+#. Key:	8BDEA14D48FAFF8158762EBD06199498
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(1).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(1).CustomLabels
+msgctxt ",8BDEA14D48FAFF8158762EBD06199498"
+msgid "0.5"
+msgstr "0.5"
+
+#. Key:	8C1B6D844760D63AE6A5C5A564BEDD18
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.PhotoModeTabHeaderText.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.PhotoModeTabHeaderText.Text
+msgctxt ",8C1B6D844760D63AE6A5C5A564BEDD18"
+msgid "Photo Mode"
+msgstr "Tryb fotograficzny"
+
+#. Key:	8C49AB3E4C62742F77F705B997338234
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.RightToggle.ButtonImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.RightToggle.ButtonImageConfig.LabelTextConfig.Text
+msgctxt ",8C49AB3E4C62742F77F705B997338234"
+msgid "]"
+msgstr "]"
+
+#. Key:	91F9D23C4FC5C768AE1A5281D9E85D37
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.CrowdDensity.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.CrowdDensity.PromptTextConfigLeft.Text
+msgctxt ",91F9D23C4FC5C768AE1A5281D9E85D37"
+msgid "Crowd"
+msgstr "Tłum"
+
+#. Key:	91FC850142F492E6752FB89226B8185B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(7).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(7).CustomLabels
+msgctxt ",91FC850142F492E6752FB89226B8185B"
+msgid "35"
+msgstr "35"
+
+#. Key:	951AF2DB4F63647EF9EDD3BB4CBB3392
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_LeftTrigger.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_LeftTrigger.Text
+msgctxt ",951AF2DB4F63647EF9EDD3BB4CBB3392"
+msgid "Brake"
+msgstr "Hamulec"
+
+#. Key:	957BE4254A08DDE6982B2F99A333D249
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.PromptTextConfigLeft.Text
+msgctxt ",957BE4254A08DDE6982B2F99A333D249"
+msgid "Nanite View"
+msgstr "Widok Nanite"
+
+#. Key:	95BDC44B4FCE7C45EBA0EDB369208B37
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",95BDC44B4FCE7C45EBA0EDB369208B37"
+msgid "Change Speed"
+msgstr "Zmień prędkość"
+
+#. Key:	966E9ECC47E7A6FC2729B5BC275CCE48
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(20 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(20 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",966E9ECC47E7A6FC2729B5BC275CCE48"
+msgid "W"
+msgstr "W"
+
+#. Key:	96AD304345D9FFDB70C38EAE2CC63F79
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(3).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(3).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",96AD304345D9FFDB70C38EAE2CC63F79"
+msgid "Reset"
+msgstr "Resetuj"
+
+#. Key:	96F6248F40766C7CAD47289EC3C6C748
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls__DPadLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls__DPadLeft.Text
+msgctxt ",96F6248F40766C7CAD47289EC3C6C748"
+msgid "Adjust Setting"
+msgstr "Regulacja ustawienia"
+
+#. Key:	970344C643C20FA1EEDEE79B253D72E3
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.MainTabHeaderText.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.MainTabHeaderText.Text
+msgctxt ",970344C643C20FA1EEDEE79B253D72E3"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	9914ADB645B71D2CC6FFC6BE6E338DEA
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(17 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(17 - Value).NumericValueLabels
+msgctxt ",9914ADB645B71D2CC6FFC6BE6E338DEA"
+msgid "+2.67"
+msgstr "+2.67"
+
+#. Key:	9C18A4CE4625A94F82EB4694A6589556
+#. SourceLocation:	/Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",9C18A4CE4625A94F82EB4694A6589556"
+msgid "Throttle"
+msgstr "Gaz"
+
+#. Key:	9C5FA04449026995980804A2EB6BB3F4
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.PromptTextConfigLeft.Text
+msgctxt ",9C5FA04449026995980804A2EB6BB3F4"
+msgid "Exposure Compensation"
+msgstr "Korekta ekspozycji"
+
+#. Key:	9C6FC36144E618F5138A53B26AA4EE73
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.PromptTextConfigLeft.Text
+msgctxt ",9C6FC36144E618F5138A53B26AA4EE73"
+msgid "Look Sensitivity"
+msgstr "Czułość rozglądania się"
+
+#. Key:	9CE3D9044FC470C03626FD898BB44BFE
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(0).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(0).CustomLabels
+msgctxt ",9CE3D9044FC470C03626FD898BB44BFE"
+msgid "1.4"
+msgstr "1,4"
+
+#. Key:	9E40D1284D50E62B2B8E2CB9EEB1887D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.SunRotation.ValueLabelSuffix
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.SunRotation.ValueLabelSuffix
+msgctxt ",9E40D1284D50E62B2B8E2CB9EEB1887D"
+msgid "°"
+msgstr "°"
+
+#. Key:	9E4C7849456832EFA3038997DDB12B43
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.SpeedUnits_1.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.SpeedUnits_1.Text
+msgctxt ",9E4C7849456832EFA3038997DDB12B43"
+msgid "MPH"
+msgstr "MPH"
+
+#. Key:	9FFD693E4CB219441FC694BA8A99ABE8
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_FaceLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_FaceLeft.Text
+msgctxt ",9FFD693E4CB219441FC694BA8A99ABE8"
+msgid "Hide Controls"
+msgstr "Schowaj informacje o sterowaniu"
+
+#. Key:	A0F36A07447FD3EA897A90BABA3CAA9A
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_FaceBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_FaceBottom.Text
+msgctxt ",A0F36A07447FD3EA897A90BABA3CAA9A"
+msgid "Exit Vehicle"
+msgstr "Wyjdź z pojazdu"
+
+#. Key:	A1B089794DEC70A35E3123A0593C48A9
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_TabSelector.Default__BP_CitySampleMenu_TabSelector_C.PromptTextConfigBottom.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_TabSelector.Default__BP_CitySampleMenu_TabSelector_C.PromptTextConfigBottom.Text
+msgctxt ",A1B089794DEC70A35E3123A0593C48A9"
+msgid "TEXT"
+msgstr "TEKST"
+
+#. Key:	A48F151344B790DBDCA4FF8169866BB2
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.SunRotation.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.SunRotation.PromptTextConfigLeft.Text
+msgctxt ",A48F151344B790DBDCA4FF8169866BB2"
+msgid "Sun Rotation"
+msgstr "Obrót słońca"
+
+#. Key:	A5AADC284A13F25158522A8E08F5DAE8
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputActionDescriptions(2 - Value).InputActionDescriptions
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputActionDescriptions(2 - Value).InputActionDescriptions
+msgctxt ",A5AADC284A13F25158522A8E08F5DAE8"
+msgid "Walk"
+msgstr "Chodzenie"
+
+#. Key:	A76179C24086D987B2983EB85024CC42
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(4 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(4 - Value).InputActionDescriptions
+msgctxt ",A76179C24086D987B2983EB85024CC42"
+msgid "Reset"
+msgstr "Resetuj"
+
+#. Key:	A77B4465446AAD9862E232BE84F357C0
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(24 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(24 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",A77B4465446AAD9862E232BE84F357C0"
+msgid "Q"
+msgstr "Q"
+
+#. Key:	A91CDEAD462671531E22B181730CDC5C
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(27 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(27 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",A91CDEAD462671531E22B181730CDC5C"
+msgid "F"
+msgstr "F"
+
+#. Key:	A91DF2474B9F96914A758CAB1ADA62A9
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.FocusTB_3.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.FocusTB_3.Text
+msgctxt ",A91DF2474B9F96914A758CAB1ADA62A9"
+msgid "VISUALIZATIONS"
+msgstr "WIZUALIZACJE"
+
+#. Key:	AA26A4A24B3F3E734E3F6EB3FBE18EF0
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_DPadUp.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_DPadUp.Text
+msgctxt ",AA26A4A24B3F3E734E3F6EB3FBE18EF0"
+msgid "Nav Up"
+msgstr "Nawigacja"
+
+#. Key:	AACFF50244C9E20C8D5BAE930ACDC9E4
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(0).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(0).CustomLabels
+msgctxt ",AACFF50244C9E20C8D5BAE930ACDC9E4"
+msgid "14"
+msgstr "14"
+
+#. Key:	ABAD70D44F682EA00868BA8AAF1EAC25
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(7 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(7 - Value).InputKeyDescriptionOverrides
+msgctxt ",ABAD70D44F682EA00868BA8AAF1EAC25"
+msgid "Speed Down"
+msgstr "Zwolnienie"
+
+#. Key:	AD18CE304B0E7A11F7F5368279224DCD
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(14).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(14).CustomLabels
+msgctxt ",AD18CE304B0E7A11F7F5368279224DCD"
+msgid "135"
+msgstr "135"
+
+#. Key:	ADC0299A4E9AF79E10F507A54CDB3507
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.FocusTB.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.FocusTB.Text
+msgctxt ",ADC0299A4E9AF79E10F507A54CDB3507"
+msgid "CAMERA CONTROL"
+msgstr "STEROWANIE KAMERĄ"
+
+#. Key:	AE02D8234F63FCD533177B8791435F4A
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(3).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(3).CustomLabels
+msgctxt ",AE02D8234F63FCD533177B8791435F4A"
+msgid "21"
+msgstr "21"
+
+#. Key:	AE0D9AA24DFB35F33F088A897BED9AA8
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.Speed_Center.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleDrivingUI.BP_CitySampleDrivingUI_C:WidgetTree.Speed_Center.Text
+msgctxt ",AE0D9AA24DFB35F33F088A897BED9AA8"
+msgid "0"
+msgstr "0"
+
+#. Key:	AFAB778C45CBBB8617D06FA499FD508C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControlsHeader.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControlsHeader.Text
+msgctxt ",AFAB778C45CBBB8617D06FA499FD508C"
+msgid "DRIVING"
+msgstr "JAZDA"
+
+#. Key:	B000CB6540915C514B898E9E8AC0D97D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.FocusTB.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.FocusTB.Text
+msgctxt ",B000CB6540915C514B898E9E8AC0D97D"
+msgid "SIMULATION"
+msgstr "SYMULACJA"
+
+#. Key:	B031DB274A674772D8465DA664588375
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(37 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(37 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",B031DB274A674772D8465DA664588375"
+msgid "P"
+msgstr "P"
+
+#. Key:	B063DE6C4D19FB4DE333AFB8B0DBC094
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(2 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(2 - Value).NumericValueLabels
+msgctxt ",B063DE6C4D19FB4DE333AFB8B0DBC094"
+msgid "-2.33"
+msgstr "-2.33"
+
+#. Key:	B11986054AFD8EAD125B468EB0B9A569
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(2).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(2).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",B11986054AFD8EAD125B468EB0B9A569"
+msgid "Close"
+msgstr "Zamknij"
+
+#. Key:	B2047A4E4315158FA3149CB7FE92D107
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(28 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(28 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",B2047A4E4315158FA3149CB7FE92D107"
+msgid "TAB"
+msgstr "TAB"
+
+#. Key:	B268A42E4BCE2EF809895C8C68BBC85B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(9).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(9).CustomLabels
+msgctxt ",B268A42E4BCE2EF809895C8C68BBC85B"
+msgid "50"
+msgstr "50"
+
+#. Key:	B3D19E3D47E72768AF1FC9B2AC4C4293
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(6 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(6 - Value).NumericValueLabels
+msgctxt ",B3D19E3D47E72768AF1FC9B2AC4C4293"
+msgid "-1.00"
+msgstr "-1.00"
+
+#. Key:	B4E911C04E0D3346B62F47B312321C91
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.TrafficDensity.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.TrafficDensity.PromptTextConfigLeft.Text
+msgctxt ",B4E911C04E0D3346B62F47B312321C91"
+msgid "Traffic"
+msgstr "Ruch drogowy"
+
+#. Key:	B5EBB59F46382B1F22F9558B148A1671
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_FaceBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_FaceBottom.Text
+msgctxt ",B5EBB59F46382B1F22F9558B148A1671"
+msgid "Enter Vehicle"
+msgstr "Wejdź do pojazdu"
+
+#. Key:	B72EEBA74BDEF1D53AF630B9A0A95B4E
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(3).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(3).CustomLabels
+msgctxt ",B72EEBA74BDEF1D53AF630B9A0A95B4E"
+msgid "Clusters"
+msgstr "Klastry"
+
+#. Key:	B9A994D74A96946CD127229560081C39
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.ButtonImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.ButtonImageConfig.LabelTextConfig.Text
+msgctxt ",B9A994D74A96946CD127229560081C39"
+msgid "Left"
+msgstr "Lewo"
+
+#. Key:	BB1E9DD444871FF08226618D3C4881FD
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.CustomLabels(1).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.CustomLabels(1).CustomLabels
+msgctxt ",BB1E9DD444871FF08226618D3C4881FD"
+msgid "Manual"
+msgstr "Ręczn."
+
+#. Key:	BB9C53444AC3EC17A0FD79A09D410569
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(1).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(1).CustomLabels
+msgctxt ",BB9C53444AC3EC17A0FD79A09D410569"
+msgid "16"
+msgstr "16"
+
+#. Key:	BC16F85C41AB0702BAF4F79F70558992
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleInteractPrompt.BP_CitySampleInteractPrompt_C:WidgetTree.Prompt.PromptTextConfigRight.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleInteractPrompt.BP_CitySampleInteractPrompt_C:WidgetTree.Prompt.PromptTextConfigRight.Text
+msgctxt ",BC16F85C41AB0702BAF4F79F70558992"
+msgid "Interact"
+msgstr "Interakcja"
+
+#. Key:	BC759FF14E4E653BF2AC3B88A1C85C15
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(7).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.CustomLabels(7).CustomLabels
+msgctxt ",BC759FF14E4E653BF2AC3B88A1C85C15"
+msgid "22"
+msgstr "22"
+
+#. Key:	BD62AD4B4B1F53D4E66242A67F2DB059
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",BD62AD4B4B1F53D4E66242A67F2DB059"
+msgid "Auto Focus (Hold)"
+msgstr "Auto fokus (przytrzymaj)"
+
+#. Key:	BE81988C4EB4BBDB8A82E5AF90D905B8
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",BE81988C4EB4BBDB8A82E5AF90D905B8"
+msgid "Change Altitude"
+msgstr "Zmień wysokość"
+
+#. Key:	BF6495C1428CCF992EE648A63F3427D9
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(3 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(3 - Value).NumericValueLabels
+msgctxt ",BF6495C1428CCF992EE648A63F3427D9"
+msgid "-2.00"
+msgstr "-2.00"
+
+#. Key:	C0ECE30E43AA05A35A773587CAC84E48
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.ControlsFlavorImageConfigMap(1 - Value).ControlsFlavorImageConfigMap.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.ControlsFlavorImageConfigMap(1 - Value).ControlsFlavorImageConfigMap.LabelTextConfig.Text
+msgctxt ",C0ECE30E43AA05A35A773587CAC84E48"
+msgid "Z"
+msgstr "Z"
+
+#. Key:	C24AA30F47BCD05DB5D6568EBC0B5DC8
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(10 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(10 - Value).NumericValueLabels
+msgctxt ",C24AA30F47BCD05DB5D6568EBC0B5DC8"
+msgid "+0.33"
+msgstr "+0.33"
+
+#. Key:	C2C946094E9E36D5B1B69AB6A76BAF45
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.Default__BP_CitySampleMenu_OptionSlider_C.PromptTextConfigRight.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSlider.Default__BP_CitySampleMenu_OptionSlider_C.PromptTextConfigRight.Text
+msgctxt ",C2C946094E9E36D5B1B69AB6A76BAF45"
+msgid "Option"
+msgstr "Opcje"
+
+#. Key:	C2DE104242AE466103F4F7AE805ABFB5
+#. SourceLocation:	/Game/Gameplay/Driving/BP_CarEntryInteraction.Default__BP_CarEntryInteraction_C.PromptText
+#: /Game/Gameplay/Driving/BP_CarEntryInteraction.Default__BP_CarEntryInteraction_C.PromptText
+msgctxt ",C2DE104242AE466103F4F7AE805ABFB5"
+msgid "Drive"
+msgstr "Prowadź"
+
+#. Key:	C46C2075479E4915D6CD308E7A7CE432
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(4 - Value).InputKeyDescriptionOverrides
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputKeyDescriptionOverrides(4 - Value).InputKeyDescriptionOverrides
+msgctxt ",C46C2075479E4915D6CD308E7A7CE432"
+msgid "Altitude Down"
+msgstr "Wysokość w dół"
+
+#. Key:	C7FA7B264B74E5C5E7E2DD9FE83DCD01
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleInteractPrompt.BP_CitySampleInteractPrompt_C:WidgetTree.Prompt.ControlsFlavorImageConfigMap(1 - Value).ControlsFlavorImageConfigMap.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleInteractPrompt.BP_CitySampleInteractPrompt_C:WidgetTree.Prompt.ControlsFlavorImageConfigMap(1 - Value).ControlsFlavorImageConfigMap.LabelTextConfig.Text
+msgctxt ",C7FA7B264B74E5C5E7E2DD9FE83DCD01"
+msgid "C"
+msgstr "C"
+
+#. Key:	C85510B34FA45B4E1407068ADE037BE0
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(11).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(11).CustomLabels
+msgctxt ",C85510B34FA45B4E1407068ADE037BE0"
+msgid "75"
+msgstr "75"
+
+#. Key:	C95BE57D433720AE8FA5A7AABFB3F9D9
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(15 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(15 - Value).NumericValueLabels
+msgctxt ",C95BE57D433720AE8FA5A7AABFB3F9D9"
+msgid "+2.00"
+msgstr "+2.00"
+
+#. Key:	CA21335D43D8EE1E590351B44C86EF82
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Main.BP_CitySampleOptions_Main_C:WidgetTree.ResumeBtn.PromptTextConfigCenter.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Main.BP_CitySampleOptions_Main_C:WidgetTree.ResumeBtn.PromptTextConfigCenter.Text
+msgctxt ",CA21335D43D8EE1E590351B44C86EF82"
+msgid "City Explorer (Running)"
+msgstr ""
+
+#. Key:	CDBE0CB74BE6A25A42EB6E81B0F70DF3
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_FaceTop.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_FaceTop.Text
+msgctxt ",CDBE0CB74BE6A25A42EB6E81B0F70DF3"
+msgid "Reset Camera"
+msgstr "Resetowanie kamery"
+
+#. Key:	CE02546C401E3EADC9E5B29A2C9F587C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_LeftStick.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DrivingControls_LeftStick.Text
+msgctxt ",CE02546C401E3EADC9E5B29A2C9F587C"
+msgid "Steer"
+msgstr "Sterowanie"
+
+#. Key:	CE65CDBF4BF28020CC756C915B2F581F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.MainSelector.PromptTextConfigBottom.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.MainSelector.PromptTextConfigBottom.Text
+msgctxt ",CE65CDBF4BF28020CC756C915B2F581F"
+msgid "MAIN"
+msgstr "MENU GŁÓWNE"
+
+#. Key:	CFC4E78044596478254920B7AF72BA6F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(0 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(0 - Value).NumericValueLabels
+msgctxt ",CFC4E78044596478254920B7AF72BA6F"
+msgid "-3.00"
+msgstr "-3.00"
+
+#. Key:	CFF9EDC4497F7DD77BB83483D5E2F339
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.BP_CitySampleMenu_OptionRadio_C:WidgetTree.PromptTextLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.BP_CitySampleMenu_OptionRadio_C:WidgetTree.PromptTextLeft.Text
+msgctxt ",CFF9EDC4497F7DD77BB83483D5E2F339"
+msgid "Title"
+msgstr "Tytuł"
+
+#. Key:	D23EF14B47BE29749DC7079C1ED0AE6D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.PromptTextConfigLeft.Text
+msgctxt ",D23EF14B47BE29749DC7079C1ED0AE6D"
+msgid "Focus Distance"
+msgstr "Odległość ogniskowania"
+
+#. Key:	D591B1C54620C2D41DF419B4CA23B7F7
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_FaceTop.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_FaceTop.Text
+msgctxt ",D591B1C54620C2D41DF419B4CA23B7F7"
+msgid "Walk"
+msgstr "Chodzenie"
+
+#. Key:	D5DBC79544E9ADEB662E1C9B46DAE779
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(9 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(9 - Value).NumericValueLabels
+msgctxt ",D5DBC79544E9ADEB662E1C9B46DAE779"
+msgid "None"
+msgstr "Brak"
+
+#. Key:	D7A286754F6D257936FF29988AF759C8
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(36 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(36 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",D7A286754F6D257936FF29988AF759C8"
+msgid "SPACE"
+msgstr "SPACJA"
+
+#. Key:	DC714AF84A38A64D59F582A70260FD6F
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(4).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(4).CustomLabels
+msgctxt ",DC714AF84A38A64D59F582A70260FD6F"
+msgid "Triangles"
+msgstr "Trójkąty"
+
+#. Key:	DECCDBBE426668B986F28D9A052BA2A6
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(2 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(2 - Value).InputActionDescriptions
+msgctxt ",DECCDBBE426668B986F28D9A052BA2A6"
+msgid "Hide UI"
+msgstr "Ukryj interfejs"
+
+#. Key:	DF9370B54D31680D2D742A9B2E66B90C
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(26 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(26 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",DF9370B54D31680D2D742A9B2E66B90C"
+msgid "R"
+msgstr "R"
+
+#. Key:	DFD7EB4741DE32DC93086BAB545F90A1
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusTB.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusTB.Text
+msgctxt ",DFD7EB4741DE32DC93086BAB545F90A1"
+msgid "CAMERA"
+msgstr "KAMERA"
+
+#. Key:	E1D971AF45FFC05627D74EAB0F341AA6
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(3 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(1).Tabs.InputActionDescriptions(3 - Value).InputActionDescriptions
+msgctxt ",E1D971AF45FFC05627D74EAB0F341AA6"
+msgid "Hide UI"
+msgstr "Ukryj interfejs"
+
+#. Key:	E2BF429F458CDEA7D6FEC3A4A05FDDF4
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(14 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(14 - Value).NumericValueLabels
+msgctxt ",E2BF429F458CDEA7D6FEC3A4A05FDDF4"
+msgid "+1.67"
+msgstr "+1.67"
+
+#. Key:	E8292D43423658E1E3FFCC812308E754
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.PauseText.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.BP_CitySampleOptionsMenu_C:WidgetTree.PauseText.Text
+msgctxt ",E8292D43423658E1E3FFCC812308E754"
+msgid "Processing Data..."
+msgstr "Przetwarzanie danych..."
+
+#. Key:	E8DC7BA743569321DD5DDB8D369D6A67
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(1 - Value).NumericValueLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.ExposureCompensation.NumericValueLabels(1 - Value).NumericValueLabels
+msgctxt ",E8DC7BA743569321DD5DDB8D369D6A67"
+msgid "-2.67"
+msgstr "-2.67"
+
+#. Key:	E966DF004ADF40A36EBF72A8B73AE327
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySamplePC.Default__BP_CitySamplePC_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/Gameplay/Character/BP_CitySamplePC.Default__BP_CitySamplePC_C.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",E966DF004ADF40A36EBF72A8B73AE327"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	EA57CE03407BFCCAF36F0B911DDFA79C
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(44 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(44 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",EA57CE03407BFCCAF36F0B911DDFA79C"
+msgid "Z"
+msgstr "Z"
+
+#. Key:	EC5716D34BEAA9DB745559BF2E118F78
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.Aperture.PromptTextConfigLeft.Text
+msgctxt ",EC5716D34BEAA9DB745559BF2E118F78"
+msgid "Aperture"
+msgstr "Przysłona"
+
+#. Key:	EE7AF550495617E34B714089EFEB9477
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_LeftStick.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_LeftStick.Text
+msgctxt ",EE7AF550495617E34B714089EFEB9477"
+msgid "Move"
+msgstr "Ruch"
+
+#. Key:	EF0D761B4F9B32122B5FCDA4A68F1DA2
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.Default__BP_CitySampleMenu_OptionRadio_C.PromptTextConfigLeft.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionRadio.Default__BP_CitySampleMenu_OptionRadio_C.PromptTextConfigLeft.Text
+msgctxt ",EF0D761B4F9B32122B5FCDA4A68F1DA2"
+msgid "Label"
+msgstr "Label"
+
+#. Key:	EFC732CB40876E94D9F8AA99F5590E52
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(5).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(5).CustomLabels
+msgctxt ",EFC732CB40876E94D9F8AA99F5590E52"
+msgid "28"
+msgstr "28"
+
+#. Key:	F0F272FC428710C2937635B39C26D226
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_LeftStick.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.WalkingControls_LeftStick.Text
+msgctxt ",F0F272FC428710C2937635B39C26D226"
+msgid "Move"
+msgstr "Ruch"
+
+#. Key:	F3338EA64BABA9E697630F8A7480C12D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(0).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(0).CustomLabels
+msgctxt ",F3338EA64BABA9E697630F8A7480C12D"
+msgid "Default"
+msgstr "Domyśln."
+
+#. Key:	F3450094470923AC5DBE0F98F92BA019
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(13).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(13).CustomLabels
+msgctxt ",F3450094470923AC5DBE0F98F92BA019"
+msgid "100"
+msgstr "100"
+
+#. Key:	F43220BF42458874352A4AB96A9BD883
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(46 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(46 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",F43220BF42458874352A4AB96A9BD883"
+msgid "C"
+msgstr "C"
+
+#. Key:	F49567C44C6222DE1400638A71FB120D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_LeftTrigger.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_LeftTrigger.Text
+msgctxt ",F49567C44C6222DE1400638A71FB120D"
+msgid "Descend"
+msgstr "Obniżenie"
+
+#. Key:	F4DD26A94B0C86AB7FD270818E8FAEDE
+#. SourceLocation:	/Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/Vehicle/Blueprint/BP_VehicleBase_Drivable.Default__BP_VehicleBase_Drivable_C.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",F4DD26A94B0C86AB7FD270818E8FAEDE"
+msgid "Brake / Reverse"
+msgstr "Hamulec / bieg wsteczny"
+
+#. Key:	F52AA60D4B09E39D7A9CF98F9D9B6CA7
+#. SourceLocation:	/Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.Default__BP_CitySampleMenu_OptionSelector_C.PromptTextConfigRight.Text
+#: /Game/UI/Blueprints/Utility/BP_CitySampleMenu_OptionSelector.Default__BP_CitySampleMenu_OptionSelector_C.PromptTextConfigRight.Text
+msgctxt ",F52AA60D4B09E39D7A9CF98F9D9B6CA7"
+msgid "Option"
+msgstr "Opcje"
+
+#. Key:	F66109664303AA01CA09A39B3319A84D
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(2).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(2).CustomLabels
+msgctxt ",F66109664303AA01CA09A39B3319A84D"
+msgid "1"
+msgstr "1"
+
+#. Key:	F7CA20E649B740B2EA9039AC837212A1
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/Gameplay/Character/BP_CitySampleHoverDrone.Default__BP_CitySampleHoverDrone_C.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",F7CA20E649B740B2EA9039AC837212A1"
+msgid "Change Altitude"
+msgstr "Zmień wysokość"
+
+#. Key:	F8ECDAD34D3C1BECA3866DAC15AAD86C
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(6).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocalLength.CustomLabels(6).CustomLabels
+msgctxt ",F8ECDAD34D3C1BECA3866DAC15AAD86C"
+msgid "32"
+msgstr "32"
+
+#. Key:	F9714C7544D54CC333342A8DF850811C
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(47 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.Default__BP_CitySampleControlsOverlay_C.KeyButtonConfigMap(47 - Value).KeyButtonConfigMap.ControlsFlavorImageConfig(0 - Value).ControlsFlavorImageConfig.LabelTextConfig.Text
+msgctxt ",F9714C7544D54CC333342A8DF850811C"
+msgid "V"
+msgstr "V"
+
+#. Key:	F9729C5E4D0B483109285ABD4565366B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(3).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Settings.BP_CitySampleOptions_Settings_C:WidgetTree.LookSensitivity.CustomLabels(3).CustomLabels
+msgctxt ",F9729C5E4D0B483109285ABD4565366B"
+msgid "2"
+msgstr "2"
+
+#. Key:	F98815B041B952ED771DBC97237D5F8B
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_DPadDown.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.PhotoModeControls_DPadDown.Text
+msgctxt ",F98815B041B952ED771DBC97237D5F8B"
+msgid "Nav Down"
+msgstr "Nawigacja w dół"
+
+#. Key:	FA31ABE241F25AB7CF2EB5BA385A43AE
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(5).CustomLabels
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_World.BP_CitySampleOptions_World_C:WidgetTree.NaniteVisual.CustomLabels(5).CustomLabels
+msgctxt ",FA31ABE241F25AB7CF2EB5BA385A43AE"
+msgid "Material ID"
+msgstr "Wizualizacja materiału"
+
+#. Key:	FAB12E1C4628EEA43ABFB7AD26FADD60
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(2).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptionsMenu.Default__BP_CitySampleOptionsMenu_C.Tabs(2).Tabs.InputActionDescriptions(0 - Value).InputActionDescriptions
+msgctxt ",FAB12E1C4628EEA43ABFB7AD26FADD60"
+msgid "Reset"
+msgstr "Resetuj"
+
+#. Key:	FD79BB3A4E9843D8AFFCACBCCD305E26
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.NumericRangeCustomization(1).NumericRangeCustomization.Suffix
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleOptions_Photo.BP_CitySampleOptions_Photo_C:WidgetTree.FocusDistance.NumericRangeCustomization(1).NumericRangeCustomization.Suffix
+msgctxt ",FD79BB3A4E9843D8AFFCACBCCD305E26"
+msgid " m"
+msgstr " m"
+
+#. Key:	FDCDBC3D479ED3711D0C71A3D41E1D46
+#. SourceLocation:	/Game/Gameplay/Character/BP_CitySamplePlayerCharacter.Default__BP_CitySamplePlayerCharacter_C.InputActionDescriptions(1 - Value).InputActionDescriptions
+#: /Game/Gameplay/Character/BP_CitySamplePlayerCharacter.Default__BP_CitySamplePlayerCharacter_C.InputActionDescriptions(1 - Value).InputActionDescriptions
+msgctxt ",FDCDBC3D479ED3711D0C71A3D41E1D46"
+msgid "Sprint"
+msgstr "Sprint"
+
+#. Key:	FF17BD104B3B943011CFF692E1288D88
+#. SourceLocation:	/Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_RightTrigger.Text
+#: /Game/UI/Blueprints/OptionsMenu/BP_CitySampleControlMappings.BP_CitySampleControlMappings_C:WidgetTree.DroneControls_RightTrigger.Text
+msgctxt ",FF17BD104B3B943011CFF692E1288D88"
+msgid "Ascend"
+msgstr "Wzniesienie"
+
+#. Key:	FF81234A4093EA733281788B2EEF788F
+#. SourceLocation:	/Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.PromptTextConfigRight.Text
+#: /Game/UI/Blueprints/Gameplay/BP_CitySampleControlsOverlay.BP_CitySampleControlsOverlay_C:WidgetTree.ToggleControlsPrompt.PromptTextConfigRight.Text
+msgctxt ",FF81234A4093EA733281788B2EEF788F"
+msgid "Dismiss Controls"
+msgstr "Schowaj informacje o sterowaniu"
+
+#. Key:	AnimGraphNode_CopyPoseRotations_Tooltip
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CopyPoseRotations.cpp:18
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CopyPoseRotations.cpp:18
+msgctxt "CitySampleAnimGraphNode_CopyPoseRotations,AnimGraphNode_CopyPoseRotations_Tooltip"
+msgid "The Copy Pose Rotations node copies the pose rotation data from another component to this. Only works when name matches."
+msgstr ""
+
+#. Key:	CopyPoseRotations
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CopyPoseRotations.cpp:23
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CopyPoseRotations.cpp:23
+msgctxt "CitySampleAnimGraphNode_CopyPoseRotations,CopyPoseRotations"
+msgid "Copy Pose Rotations"
+msgstr ""
+
+#. Key:	NodeCategory
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CrowdSlopeWarping.cpp:28
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CrowdSlopeWarping.cpp:28
+msgctxt "CitySampleAnimGraphNode_CrowdSlopeWarping,NodeCategory"
+msgid "Crowd"
+msgstr ""
+
+#. Key:	NodeTitle
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CrowdSlopeWarping.cpp:33
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CrowdSlopeWarping.cpp:33
+msgctxt "CitySampleAnimGraphNode_CrowdSlopeWarping,NodeTitle"
+msgid "Crowd Slope Warping"
+msgstr ""
+
+#. Key:	NodeToolTip
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CrowdSlopeWarping.cpp:18
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_CrowdSlopeWarping.cpp:18
+msgctxt "CitySampleAnimGraphNode_CrowdSlopeWarping,NodeToolTip"
+msgid "Crowd Warping"
+msgstr ""
+
+#. Key:	NodeCategory
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:29
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:29
+msgctxt "CitySampleAnimGraphNode_RequestInertialization,NodeCategory"
+msgid "Inertialization"
+msgstr "Inertialization"
+
+#. Key:	NodeTitle
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:24
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:24
+msgctxt "CitySampleAnimGraphNode_RequestInertialization,NodeTitle"
+msgid "Request Inertialization"
+msgstr "Request Inertialization"
+
+#. Key:	NodeToolTip
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:19
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:19
+msgctxt "CitySampleAnimGraphNode_RequestInertialization,NodeToolTip"
+msgid "Request Inertialization"
+msgstr "Request Inertialization"
+
+#. Key:	NodeCategory
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:62
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:62
+msgctxt "CitySampleAnimGraphNode_RequestInertializationOnAssetChange,NodeCategory"
+msgid "Inertialization"
+msgstr "Inertialization"
+
+#. Key:	NodeTitle
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:57
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:57
+msgctxt "CitySampleAnimGraphNode_RequestInertializationOnAssetChange,NodeTitle"
+msgid "Request Inertialization On Asset Change"
+msgstr "Request Inertialization On Asset Change"
+
+#. Key:	NodeToolTip
+#. SourceLocation:	Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:52
+#: Source/CitySampleAnimGraphRuntime/CitySampleAnimGraphNode_RequestInertialization.cpp:52
+msgctxt "CitySampleAnimGraphNode_RequestInertializationOnAssetChange,NodeToolTip"
+msgid "Request Inertialization On Asset Change"
+msgstr "Request Inertialization On Asset Change"
+
+#. Key:	RequestInertializationOnAssetChangeError
+#. SourceLocation:	Source/CitySample/Anim/CitySampleAnimNode_RequestInertialization.cpp:211
+#: Source/CitySample/Anim/CitySampleAnimNode_RequestInertialization.cpp:211
+msgctxt "CitySampleAnimNode_RequestInertialization,RequestInertializationOnAssetChangeError"
+msgid "No asset player node found as the source of FAnimNode_RequestInertializationOnAssetChange."
+msgstr ""
+
+#. Key:	EInteractionResult::CharacterWasBusy
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:97
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:97
+msgctxt "CitySampleCharacter,EInteractionResult::CharacterWasBusy"
+msgid "Character was in another interaction."
+msgstr "Character was in another interaction."
+
+#. Key:	EInteractionResult::InteractionBusy
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:100
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:100
+msgctxt "CitySampleCharacter,EInteractionResult::InteractionBusy"
+msgid "Interaction was being performed by another character."
+msgstr "Interaction was being performed by another character."
+
+#. Key:	EInteractionResult::InvalidAuthority
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:106
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:106
+msgctxt "CitySampleCharacter,EInteractionResult::InvalidAuthority"
+msgid "Character does not have authority to perform the interaction."
+msgstr "Character does not have authority to perform the interaction."
+
+#. Key:	EInteractionResult::InvalidInteraction
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:109
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:109
+msgctxt "CitySampleCharacter,EInteractionResult::InvalidInteraction"
+msgid "Character was not currently performing the interaction."
+msgstr "Character was not currently performing the interaction."
+
+#. Key:	EInteractionResult::OutOfRange
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:103
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:103
+msgctxt "CitySampleCharacter,EInteractionResult::OutOfRange"
+msgid "Interaction was out of range."
+msgstr "Interaction was out of range."
+
+#. Key:	EInteractionResult::Success
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:94
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:94
+msgctxt "CitySampleCharacter,EInteractionResult::Success"
+msgid "Success"
+msgstr "Success"
+
+#. Key:	EInteractionState::Aborted
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:57
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:57
+msgctxt "CitySampleCharacter,EInteractionState::Aborted"
+msgid "Abort"
+msgstr "Abort"
+
+#. Key:	EInteractionState::Finished
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:60
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:60
+msgctxt "CitySampleCharacter,EInteractionState::Finished"
+msgid "Finish"
+msgstr "Finish"
+
+#. Key:	EInteractionState::Start
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:54
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:54
+msgctxt "CitySampleCharacter,EInteractionState::Start"
+msgid "Start"
+msgstr "Start"
+
+#. Key:	GenericInvalid
+#. SourceLocation:	Source/CitySample/Game/CitySamplePlayerController.cpp:32
+#: Source/CitySample/Game/CitySamplePlayerController.cpp:32
+msgctxt "CitySampleCharacter,GenericInvalid"
+msgid "Invalid"
+msgstr "Invalid"
+
+#. Key:	CheckContentButton
+#. SourceLocation:	Source/CitySampleEditor/CitySampleEditor.cpp:45
+#: Source/CitySampleEditor/CitySampleEditor.cpp:45
+msgctxt "CitySampleEditor,CheckContentButton"
+msgid "Check Content"
+msgstr "Check Content"
+
+#. Key:	CheckContentDescription
+#. SourceLocation:	Source/CitySampleEditor/CitySampleEditor.cpp:46
+#: Source/CitySampleEditor/CitySampleEditor.cpp:46
+msgctxt "CitySampleEditor,CheckContentDescription"
+msgid "Runs the Content Validation job on all checked out assets to look for warnings and errors"
+msgstr "Runs the Content Validation job on all checked out assets to look for warnings and errors"
+
+#. Key:	CheckingContentTask
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:106
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:106
+msgctxt "CitySampleEditorValidator,CheckingContentTask"
+msgid "Checking content..."
+msgstr "Checking content..."
+
+#. Key:	CompilingAssetsBeforeCheckingContentTask
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:100
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:100
+msgctxt "CitySampleEditorValidator,CompilingAssetsBeforeCheckingContentTask"
+msgid "Finishing asset compilations before checking content..."
+msgstr "Finishing asset compilations before checking content..."
+
+#. Key:	ContentValidationFailed
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:134
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:134
+msgctxt "CitySampleEditorValidator,ContentValidationFailed"
+msgid "!!!!!!! Your checked out content has issues. Don't submit until they are fixed !!!!!!!\r\n\r\nSee the MessageLog and OutputLog for details"
+msgstr "!!!!!!! Your checked out content has issues. Don't submit until they are fixed !!!!!!!\r\n\r\nSee the MessageLog and OutputLog for details"
+
+#. Key:	ContentValidationFailedWithNoMessages
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:138
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:138
+msgctxt "CitySampleEditorValidator,ContentValidationFailedWithNoMessages"
+msgid "No errors or warnings were found, but there was an error return code. Look in the OutputLog and log file for details. You may need engineering help."
+msgstr "No errors or warnings were found, but there was an error return code. Look in the OutputLog and log file for details. You may need engineering help."
+
+#. Key:	ContentValidationPassed
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:142
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:142
+msgctxt "CitySampleEditorValidator,ContentValidationPassed"
+msgid "All checked out content passed. Nice job."
+msgstr "All checked out content passed. Nice job."
+
+#. Key:	DiscoveringAssets
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:44
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:44
+msgctxt "CitySampleEditorValidator,DiscoveringAssets"
+msgid "Still discovering assets. Try again once it is complete."
+msgstr "Still discovering assets. Try again once it is complete."
+
+#. Key:	ValidatePackages
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:173
+#: Source/CitySampleEditor/Validation/CitySampleEditorValidator.cpp:173
+msgctxt "CitySampleEditorValidator,ValidatePackages"
+msgid "Validate Packages"
+msgstr "Validate Packages"
+
+#. Key:	PromptText
+#. SourceLocation:	Source/CitySample/Game/CitySampleInteractionComponent.h:90
+#: Source/CitySample/Game/CitySampleInteractionComponent.h:90
+msgctxt "CitySampleInteractionComponent,PromptText"
+msgid "Interact"
+msgstr "Interakcja"
+
+#. Key:	ConvertPLAToActorLabel
+#. SourceLocation:	Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:85
+#: Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:85
+msgctxt "CitySampleLevelInstanceUtils,ConvertPLAToActorLabel"
+msgid "Convert to ISM Actor"
+msgstr ""
+
+#. Key:	ConvertPLAToActorToolTip
+#. SourceLocation:	Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:86
+#: Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:86
+msgctxt "CitySampleLevelInstanceUtils,ConvertPLAToActorToolTip"
+msgid "Replaces Packed Level Actor with base Actor retaining packed components"
+msgstr ""
+
+#. Key:	ConvertPLIToActor
+#. SourceLocation:	Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:17
+#: Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:17
+msgctxt "CitySampleLevelInstanceUtils,ConvertPLIToActor"
+msgid "Convert Packed Level Instance to ISM Actor"
+msgstr ""
+
+#. Key:	CitySamplePackedLevelActor
+#. SourceLocation:	Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:80
+#: Source/CitySampleEditor/LevelInstance/CitySampleLevelInstanceUtils.cpp:80
+msgctxt "CitySampleLevelInstanceUtils,CitySamplePackedLevelActor"
+msgid "CitySample Packed Level Actor"
+msgstr ""
+
+#. Key:	MergingActorsSlowTask
+#. SourceLocation:	Source/CitySampleEditor/MeshMerging/CitySampleMeshMerging.cpp:178
+#: Source/CitySampleEditor/MeshMerging/CitySampleMeshMerging.cpp:178
+msgctxt "CitySampleMeshMerging,MergingActorsSlowTask"
+msgid "Merging actors..."
+msgstr "Merging actors..."
+
+#. Key:	PlaceMergedActor
+#. SourceLocation:	Source/CitySampleEditor/MeshMerging/CitySampleMeshMerging.cpp:233
+#: Source/CitySampleEditor/MeshMerging/CitySampleMeshMerging.cpp:233
+msgctxt "CitySampleMeshMerging,PlaceMergedActor"
+msgid "Place Merged Actor"
+msgstr "Place Merged Actor"
+
+#. Key:	BooleanFalseText
+#. SourceLocation:	Source/CitySample/UI/CitySampleOptionSelector.cpp:23
+#: Source/CitySample/UI/CitySampleOptionSelector.cpp:23
+msgctxt "CitySampleOptionSelector,BooleanFalseText"
+msgid "Off"
+msgstr "Wył."
+
+#. Key:	BooleanTrueText
+#. SourceLocation:	Source/CitySample/UI/CitySampleOptionSelector.cpp:24
+#: Source/CitySample/UI/CitySampleOptionSelector.cpp:24
+msgctxt "CitySampleOptionSelector,BooleanTrueText"
+msgid "On"
+msgstr "Wł."
+
+#. Key:	OutValueDefaultLabelNumeric
+#. SourceLocation:	Source/CitySample/UI/CitySampleOptionSelector.cpp:339
+#: Source/CitySample/UI/CitySampleOptionSelector.cpp:339
+msgctxt "CitySampleOptionSelector,OutValueDefaultLabelNumeric"
+msgid "{0}{1}{2}"
+msgstr "{0}{1}{2}"
+
+#. Key:	OutValueLabel
+#. SourceLocation:	Source/CitySample/UI/CitySampleOptionSelector.cpp:318
+#: Source/CitySample/UI/CitySampleOptionSelector.cpp:318
+msgctxt "CitySampleOptionSelector,OutValueLabel"
+msgid "{0}{1}{2}"
+msgstr "{0}{1}{2}"
+
+#. Key:	Load_FailedLoad
+#. SourceLocation:	Source/CitySampleEditor/Validation/CitySampleValidator_Load.cpp:53
+#: Source/CitySampleEditor/Validation/CitySampleValidator_Load.cpp:53
+msgctxt "CitySampleValidator,Load_FailedLoad"
+msgid "Failed to get package load warnings and errors"
+msgstr "Failed to get package load warnings and errors"
+
+#. Key:	TextureDeDupe_CRC
+#. SourceLocation:	Source/CitySampleEditor/UtilityWidgets/TextureDeDupeWidget.cpp:78
+#: Source/CitySampleEditor/UtilityWidgets/TextureDeDupeWidget.cpp:78
+msgctxt "TextureDeDupe,TextureDeDupe_CRC"
+msgid "Calculating CRCs"
+msgstr ""
+
+#. Key:	AddActor
+#. SourceLocation:	Source/CitySampleEditor/CitySampleEditorBlueprintLibrary.cpp:56
+#: Source/CitySampleEditor/CitySampleEditorBlueprintLibrary.cpp:56
+msgctxt "UnrealEd,AddActor"
+msgid "Add Actor"
+msgstr "Add Actor"
+
+#. Key:	PasteConstraintProperties
+#. SourceLocation:	Source/CitySampleEditor/CitySampleEditorBlueprintLibrary.cpp:368
+#: Source/CitySampleEditor/CitySampleEditorBlueprintLibrary.cpp:368
+msgctxt "UnrealEd,PasteConstraintProperties"
+msgid "Copy Constraint Properties"
+msgstr "Copy Constraint Properties"
+
