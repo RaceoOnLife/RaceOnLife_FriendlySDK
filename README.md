@@ -95,7 +95,7 @@ _____
       </a>
       <br>egor[Егор]
     </td>
-    <td align="center" width="48">
+    <td align="center" width="92">
       <a href="https://t.me/IstyManame" >
         <img src="https://i.ibb.co/rGPB4hT/Isty-Profile-Pic-Saturated.png" width="92" height="92" alt="Isty" />
       </a>
