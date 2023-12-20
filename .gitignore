@@ -18,9 +18,6 @@ Build
 Content/Building/
 Content/Prop/
 Content/Megascans/
-Content/__ExternalActors__/Map
-Content/__ExternalActors__/Isty
-Content/__ExternalActors__/Levels
 Content/Crowd
 Content/EuropeanBeech
 Content/Vehicle
@@ -30,13 +27,7 @@ Content/TropicalFoliage
 Content/BeachScene
 Content/Material
 Content/Tropical_Jungle_Pack
-Content/DD_Vehicles_Advanced/Textures
-Content/DD_Vehicles_Advanced/Meshes
-Content/DD_Vehicles_Advanced/Animations
-Content/VehicleVarietyPack/Textures
-Content/VehicleVarietyPack/Skeletons
 Content/Environment
-Content/VehicleVarietyVol2/Textures
 Content/MetaHumans
 Content/SuburbNeighborhoodHousePack
 Content/SportsStadium
@@ -48,7 +39,6 @@ Content/Effect
 Content/NYC1950_ClassicCar01
 Content/Market_Environment
 Content/Textures
-Content/ModernRacingCar/Textures
 Content/UI
 Content/Assets
 Content/Lighting
@@ -60,3 +50,13 @@ Content/LoadingScreen
 Content/Splash
 Content/ProIconPack
 Content/Meshes
+Content/__ExternalActors__/Map
+Content/__ExternalActors__/Isty
+Content/__ExternalActors__/Levels
+Content/DD_Vehicles_Advanced/Textures
+Content/DD_Vehicles_Advanced/Meshes
+Content/DD_Vehicles_Advanced/Animations
+Content/VehicleVarietyPack/Textures
+Content/VehicleVarietyPack/Skeletons
+Content/VehicleVarietyVol2/Textures
+Content/ModernRacingCar/Textures
