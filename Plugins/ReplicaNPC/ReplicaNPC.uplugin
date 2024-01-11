@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ReplicaNPC",
+	"Description": "Provides responsive audio via Replica",
+	"Category": "Other",
+	"CreatedBy": "Replica Studios",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ReplicaNPC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

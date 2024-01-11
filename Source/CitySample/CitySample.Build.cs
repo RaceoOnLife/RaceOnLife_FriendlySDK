@@ -33,7 +33,7 @@ public class CitySample : ModuleRules
 			"GeometryCollectionEngine",
 			"Gauntlet",
 			"MassTraffic",
-			"MassZoneGraphNavigation",
+			"MassZoneGraphNavigation"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[]

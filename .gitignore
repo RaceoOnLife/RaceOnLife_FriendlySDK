@@ -13,7 +13,20 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
-Plugins
+Plugins/AdvancedSessions
+Plugins/BrokenGlassEffects
+Plugins/CitySampleMassCrowd
+Plugins/CitySampleSensorGrid
+Plugins/ConvaiOVRLipSync
+Plugins/Crossfader
+Plugins/DTMysql
+Plugins/HoverDrone
+Plugins/Marketplace
+Plugins/RuleProcessor
+Plugins/SoundScape
+Plugins/Traffic
+Plugins/WorldAudioDataSystem
+
 Build
 Content/Building
 Content/Prop
