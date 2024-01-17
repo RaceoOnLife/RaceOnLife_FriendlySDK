@@ -34,6 +34,8 @@ public class CitySample : ModuleRules
 			"Gauntlet",
 			"MassTraffic",
 			"MassZoneGraphNavigation",
+			"Avaturn",
+			"AdvancedSessions"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[]
