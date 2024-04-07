@@ -90,7 +90,6 @@ _____
       <br>meresse[Мересс]
     </td>
     <td align="center" width="64">
-
       <a href="https://t.me/IstyManame" >
         <img src="https://i.ibb.co/f17pBcY/vanya.jpg" width="92" height="92" alt="Isty" />
       </a>
