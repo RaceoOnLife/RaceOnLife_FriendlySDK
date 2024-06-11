@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1dd0a16ae8ed07c6a22d6961ce99a56653b022847a240d6555b24a55602a9423
-size 166
+.vs/
+Binaries/
+DerivedDataCache/
+Itermediate/
+Saved/
+
+.vsconfig
+.sln
+
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+Plugins/AdvancedSessions/*/Intermediate/
+Plugins/AdvancedSessions/*/Binaries/
