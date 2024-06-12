@@ -1,7 +1,7 @@
 .vs/
 Binaries/
 DerivedDataCache/
-Itermediate/
+Intermediate/
 Saved/
 
 .vsconfig
@@ -11,7 +11,12 @@ Saved/
 .wav
 .mp3
 .fbx
+
+desktop.ini
 */desktop.ini
+
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
 
 Plugins/*/Intermediate/
 Plugins/*/Binaries/
