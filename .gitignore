@@ -6,9 +6,17 @@ Saved/
 
 .vsconfig
 .sln
+.png
+.jpg
+.wav
+.mp3
+.fbx
+*/desktop.ini
 
 Plugins/*/Intermediate/
 Plugins/*/Binaries/
 
 Plugins/AdvancedSessions/*/Intermediate/
 Plugins/AdvancedSessions/*/Binaries/
+
+lfs/
