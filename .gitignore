@@ -4,13 +4,13 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
-.vsconfig
-.sln
-.png
-.jpg
-.wav
-.mp3
-.fbx
+*.vsconfig
+*.sln
+*.png
+*.jpg
+*.wav
+*.mp3
+*.fbx
 
 desktop.ini
 */desktop.ini
