@@ -25,7 +25,8 @@ public class Avaturn : ModuleRules
 			new string[]
 			{
 				"Core",
-				"glTFRuntime"
+				"glTFRuntime",
+				"Media"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);

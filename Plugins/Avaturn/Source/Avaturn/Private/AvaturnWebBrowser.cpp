@@ -110,6 +110,10 @@ TSharedRef<SWidget> UAvaturnWebBrowser::RebuildWidget()
 void UAvaturnWebBrowser::ToggleOrientation(bool bPortrait)
 {
 #if PLATFORM_ANDROID
+#if ENGINE_MAJOR_VERSION > 4 && ENGINE_MINOR_VERSION > 1
+	FAndroidMisc::SetAllowedDeviceOrientation(bPortrait ? EDeviceScreenOrientation::Portrait : EDeviceScreenOrientation::LandscapeLeft);
+#else
 	FAndroidMisc::SetDeviceOrientation(bPortrait ? EDeviceScreenOrientation::Portrait : EDeviceScreenOrientation::LandscapeLeft);
+#endif
 #endif
 }
