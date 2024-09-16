@@ -1,3 +1,0 @@
-{
-	"MetaHumanVersion": "2.0.3"
-}
