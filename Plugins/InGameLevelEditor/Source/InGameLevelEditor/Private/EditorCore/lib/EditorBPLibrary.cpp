@@ -115,7 +115,6 @@ FLoadLevelResult  UEditorBPLibrary::LoadLevel(UObject* WorldContextObject, const
         }
     }
 
-    // спасибо господи за то, что убрал 4к ошибок
     Result.bSuccess = true;
     return Result;
 }

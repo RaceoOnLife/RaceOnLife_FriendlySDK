@@ -427,7 +427,7 @@ TArray<FString> URaceOnLifeLibrary::GetBuyedItems(APlayerController* PlayerContr
 	FString FileContent;
 	if (FFileHelper::LoadFileToString(FileContent, *FilePath))
 	{
-		FString DecryptedContent = DecryptData(FileContent, TEXT("YourEncryptionKey123"));
+		FString DecryptedContent = DecryptData(FileContent, TEXT("no_key_lol"));
 
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(DecryptedContent);
@@ -470,7 +470,7 @@ void URaceOnLifeLibrary::SetBuyedItems(APlayerController* PlayerController, cons
 	TSharedRef<TJsonWriter<>> Writer = TJsonWriterFactory<>::Create(&OutputString);
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), Writer);
 
-	FString EncryptedContent = EncryptData(OutputString, TEXT("YourEncryptionKey123"));
+	FString EncryptedContent = EncryptData(OutputString, TEXT("no_key_lol"));
 	FFileHelper::SaveStringToFile(EncryptedContent, *FilePath);
 }
 
@@ -487,7 +487,7 @@ float URaceOnLifeLibrary::GetBalance(APlayerController* PlayerController)
 	FString FileContent;
 	if (FFileHelper::LoadFileToString(FileContent, *FilePath))
 	{
-		FString DecryptedContent = DecryptData(FileContent, TEXT("YourEncryptionKey123"));
+		FString DecryptedContent = DecryptData(FileContent, TEXT("no_key_lol"));
 
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(DecryptedContent);
@@ -510,7 +510,7 @@ void URaceOnLifeLibrary::SetBalance(APlayerController* PlayerController, float B
 	TSharedRef<TJsonWriter<>> Writer = TJsonWriterFactory<>::Create(&OutputString);
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), Writer);
 
-	FString EncryptedContent = EncryptData(OutputString, TEXT("YourEncryptionKey123"));
+	FString EncryptedContent = EncryptData(OutputString, TEXT("no_key_lol"));
 	FFileHelper::SaveStringToFile(EncryptedContent, *FilePath);
 }
 
@@ -520,7 +520,7 @@ int32 URaceOnLifeLibrary::GetPlayedGames(APlayerController* PlayerController, co
 	FString FileContent;
 	if (FFileHelper::LoadFileToString(FileContent, *FilePath))
 	{
-		FString DecryptedContent = DecryptData(FileContent, TEXT("YourEncryptionKey123"));
+		FString DecryptedContent = DecryptData(FileContent, TEXT("no_key_lol"));
 
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(DecryptedContent);
@@ -547,7 +547,7 @@ void URaceOnLifeLibrary::SetPlayedGames(APlayerController* PlayerController, con
 	TSharedRef<TJsonWriter<>> Writer = TJsonWriterFactory<>::Create(&OutputString);
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), Writer);
 
-	FString EncryptedContent = EncryptData(OutputString, TEXT("YourEncryptionKey123"));
+	FString EncryptedContent = EncryptData(OutputString, TEXT("no_key_lol"));
 	FFileHelper::SaveStringToFile(EncryptedContent, *FilePath);
 }
 
