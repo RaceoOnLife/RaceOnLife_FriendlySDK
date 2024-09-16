@@ -1,0 +1,52 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3",
+	"FriendlyName": "Ryan's Helpful Helpers",
+	"Description": "Extremely helpful helper functions for developing Blueprint and C++ projects in Unreal Engine.",
+	"Category": "Utilities",
+	"CreatedBy": "Solar Storm Interactive",
+	"CreatedByURL": "https://github.com/rfsheffer",
+	"DocsURL": "https://github.com/rfsheffer/RyHelpfulHelpers/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/25653d83f1f84775b09ed750659f9ca3",
+	"SupportURL": "https://discord.gg/zBXM6VC4r8",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "RyRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Android",
+				"Win64",
+				"Linux",
+				"Mac",
+				"IOS"
+			]
+		},
+		{
+			"Name": "RyEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "RyEditorK2Nodes",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Android",
+				"Win64",
+				"Linux",
+				"Mac",
+				"IOS"
+			]
+		}
+	]
+}

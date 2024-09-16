@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.3",
+	"FriendlyName": "Debug Function Library Lite",
+	"Description": "A function library that introduces new nodes to make debugging easier to manage across your project.",
+	"Category": "Editor",
+	"CreatedBy": "Just2Devs",
+	"CreatedByURL": "https://www.just2devs.com/",
+	"DocsURL": "https://gitlab.com/just2devs/plugin-examples/debug-function-library-example/-/wikis/Home",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/19bd81002c7643aeab6b002563cbe0dd",
+	"SupportURL": "https://discord.gg/34pkWxHZza",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DebugFunctionLibraryLite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "DebugFunctionLibraryLiteEditor",
+			"Type": "EditorNoCommandlet",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "DebugFunctionLibraryLiteUncooked",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}

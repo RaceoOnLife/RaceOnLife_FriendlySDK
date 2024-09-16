@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "raceonlife_lib",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "EternityLifeStudio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "raceonlife_lib",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

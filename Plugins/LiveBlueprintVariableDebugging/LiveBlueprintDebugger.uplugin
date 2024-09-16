@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1001,
+	"VersionName": "1.1",
+	"FriendlyName": "Live Blueprint Debugger in Actor Details",
+	"Description": "Shows a live Blueprint debugger in the actor details panel when playing or simulating in the editor.",
+	"Category": "Debugging",
+	"CreatedBy": "Justin Nordin",
+	"CreatedByURL": "https://github.com/jlnordin/LiveBlueprintVariableDebugging",
+	"DocsURL": "https://github.com/jlnordin/LiveBlueprintVariableDebugging/blob/main/README.md",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6019cfbf80bb4942add3b61d9180380a",
+	"SupportURL": "https://github.com/jlnordin/LiveBlueprintVariableDebugging/issues",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LiveBlueprintDebugger",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}

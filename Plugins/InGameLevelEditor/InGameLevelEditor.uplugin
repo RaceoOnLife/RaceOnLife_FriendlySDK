@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.0.1-pr",
+	"FriendlyName": "InGameLevelEditor",
+	"Description": "Just a level editor in game lol",
+	"Category": "by udev",
+	"CreatedBy": "udev",
+	"CreatedByURL": "https://t.me/udev_bio",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://t.me/udev_support",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "InGameLevelEditor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
