@@ -20,5 +20,5 @@ public:
     TSubclassOf<class UEditorHUDWidget> EditorHUDWidgetClass;
 
     UFUNCTION(BlueprintCallable, Category = "UserInput")
-    AActor* PerformLineTraceToCursor();
+AActor* PerformLineTraceToCursor(FString& ReturnValue2);
 };
