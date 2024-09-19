@@ -3,6 +3,8 @@
 #include "Components/InputComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "Blueprint/UserWidget.h"
+#include "GameFramework/PlayerController.h"
 
 ADroneBase::ADroneBase()
 {
@@ -39,6 +41,31 @@ void ADroneBase::Tick(float DeltaTime)
 	}
 
 	ReduceDroneCharge();
+}
+
+void ADroneBase::Possessed(AController NewController*)
+{
+	Super::Possessed(NewController);
+
+	if (WidgetClass && NewController->IsA(APlayerController::StaticClass()))
+	{
+		CreatedWidget = CreateWidget<UUserWidget>(Cast<APlayerController>(NewController), WidgetClass);
+		if (CreatedWidget)
+		{
+			CreatedWidget->AddToViewport;
+		}
+	}
+}
+
+void ADroneBase::UnPossessed()
+{
+	Super::UnPossessed();
+
+	if (CreatedWidget)
+	{
+		CreatedWidget->RemoveFromParent();
+		CreatedWidget = nullptr;
+	}
 }
 
 void ADroneBase::ReduceDroneCharge()

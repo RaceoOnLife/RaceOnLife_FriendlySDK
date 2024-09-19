@@ -2,6 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
+#include "Blueprint/UserWidget.h"
 #include "DroneBase.generated.h"
 
 UCLASS()
@@ -11,6 +12,12 @@ class RACEONLIFE_API ADroneBase : public APawn
 
 protected:
 	virtual void BeginPlay() override;
+
+    virtual void Possessed(AController* NewController) override;
+    virtual void UnPossessed() override;
+
+    UPROPERTY()
+    UUserWidget* CreatedWidget;
 
 public:	
     ADroneBase();
@@ -34,6 +41,9 @@ public:
 
     UFUNCTION(BlueprintCallable, Category = "Drone")
     float GetDroneCharge();
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "DroneUI")
+    TSubclassOf<UUserWidget> WidgetClass;
 
 private:
     FVector CurrentVelocity;
