@@ -57,6 +57,7 @@ void UMinimapWidget::InitializeMinimap()
         USplineComponent* Spline = Road->FindComponentByClass<USplineComponent>();
         if (Spline)
         {
+            // Создание линий на миникарте на основе точек сплайна
             int32 NumberOfPoints = Spline->GetNumberOfSplinePoints();
 
             for (int32 i = 0; i < NumberOfPoints - 1; ++i)
@@ -66,6 +67,10 @@ void UMinimapWidget::InitializeMinimap()
 
                 FVector2D StartPos = WorldToMinimapPosition(StartPoint);
                 FVector2D EndPos = WorldToMinimapPosition(EndPoint);
+
+                // Создание линии между StartPos и EndPos
+                // Можно использовать кастомный виджет или рисовать линию на Canvas
+                // Здесь для простоты пропустим реализацию
             }
         }
     }

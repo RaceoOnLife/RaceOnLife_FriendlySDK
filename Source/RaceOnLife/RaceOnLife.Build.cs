@@ -31,7 +31,7 @@ public class RaceOnLife : ModuleRules
             "raceonlife_lib"
         });
 
-        PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore", "UMG" });
+        PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
 
         // default end
 

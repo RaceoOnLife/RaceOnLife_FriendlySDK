@@ -27,6 +27,7 @@
 #include "GameFramework/Actor.h"
 #include <Kismet/GameplayStatics.h>
 #include "Camera/CameraComponent.h"
+#include "GameFramework/GameUserSettings.h"
 
 TArray<FString> URaceOnLifeLibrary::GetInputDevices()
 {
@@ -405,6 +406,39 @@ FVector URaceOnLifeLibrary::CalculateImpulse(UCameraComponent* CameraComponent, 
 	return Impulse;
 }
 
+void URaceOnLifeLibrary::SetAntiAliasing(int32 Method)
+{
+	FString Command;
+
+	switch (Method)
+	{
+	case 0: // FXAA
+		Command = TEXT("r.DefaultFeature.AntiAliasing=0"); // FXAA
+		break;
+	case 1: // TAA
+		Command = TEXT("r.DefaultFeature.AntiAliasing=2"); // TAA
+		break;
+	case 2: // MSAA 2x
+		Command = TEXT("r.DefaultFeature.AntiAliasing=1"); // MSAA
+		Command += TEXT(" r.MSAA.CompositingSampleCount=2");
+		break;
+	case 3: // MSAA 4x
+		Command = TEXT("r.DefaultFeature.AntiAliasing=1"); // MSAA
+		Command += TEXT(" r.MSAA.CompositingSampleCount=4");
+		break;
+	case 4: // DLSS (если собран)
+		Command = TEXT("r.NGX.DLSS.Enable=1");
+		break;
+	default:
+		return;
+	}
+
+	if (GEngine)
+	{
+		GEngine->Exec(GWorld, *Command); // Выполнить команду
+	}
+}
+
 /*
 
 bool URaceOnLifeLibrary::IsItemBuyed(APlayerController* PlayerController, const FString& ItemID)
@@ -427,7 +461,7 @@ TArray<FString> URaceOnLifeLibrary::GetBuyedItems(APlayerController* PlayerContr
 	FString FileContent;
 	if (FFileHelper::LoadFileToString(FileContent, *FilePath))
 	{
-		FString DecryptedContent = DecryptData(FileContent, TEXT("no_key_lol"));
+		FString DecryptedContent = DecryptData(FileContent, TEXT("YourEncryptionKey123"));
 
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(DecryptedContent);
@@ -470,7 +504,7 @@ void URaceOnLifeLibrary::SetBuyedItems(APlayerController* PlayerController, cons
 	TSharedRef<TJsonWriter<>> Writer = TJsonWriterFactory<>::Create(&OutputString);
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), Writer);
 
-	FString EncryptedContent = EncryptData(OutputString, TEXT("no_key_lol"));
+	FString EncryptedContent = EncryptData(OutputString, TEXT("YourEncryptionKey123"));
 	FFileHelper::SaveStringToFile(EncryptedContent, *FilePath);
 }
 
@@ -487,7 +521,7 @@ float URaceOnLifeLibrary::GetBalance(APlayerController* PlayerController)
 	FString FileContent;
 	if (FFileHelper::LoadFileToString(FileContent, *FilePath))
 	{
-		FString DecryptedContent = DecryptData(FileContent, TEXT("no_key_lol"));
+		FString DecryptedContent = DecryptData(FileContent, TEXT("YourEncryptionKey123"));
 
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(DecryptedContent);
@@ -510,7 +544,7 @@ void URaceOnLifeLibrary::SetBalance(APlayerController* PlayerController, float B
 	TSharedRef<TJsonWriter<>> Writer = TJsonWriterFactory<>::Create(&OutputString);
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), Writer);
 
-	FString EncryptedContent = EncryptData(OutputString, TEXT("no_key_lol"));
+	FString EncryptedContent = EncryptData(OutputString, TEXT("YourEncryptionKey123"));
 	FFileHelper::SaveStringToFile(EncryptedContent, *FilePath);
 }
 
@@ -520,7 +554,7 @@ int32 URaceOnLifeLibrary::GetPlayedGames(APlayerController* PlayerController, co
 	FString FileContent;
 	if (FFileHelper::LoadFileToString(FileContent, *FilePath))
 	{
-		FString DecryptedContent = DecryptData(FileContent, TEXT("no_key_lol"));
+		FString DecryptedContent = DecryptData(FileContent, TEXT("YourEncryptionKey123"));
 
 		TSharedPtr<FJsonObject> JsonObject;
 		TSharedRef<TJsonReader<>> Reader = TJsonReaderFactory<>::Create(DecryptedContent);
@@ -547,7 +581,7 @@ void URaceOnLifeLibrary::SetPlayedGames(APlayerController* PlayerController, con
 	TSharedRef<TJsonWriter<>> Writer = TJsonWriterFactory<>::Create(&OutputString);
 	FJsonSerializer::Serialize(JsonObject.ToSharedRef(), Writer);
 
-	FString EncryptedContent = EncryptData(OutputString, TEXT("no_key_lol"));
+	FString EncryptedContent = EncryptData(OutputString, TEXT("YourEncryptionKey123"));
 	FFileHelper::SaveStringToFile(EncryptedContent, *FilePath);
 }
 

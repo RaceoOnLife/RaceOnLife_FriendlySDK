@@ -16,22 +16,22 @@ class RACEONLIFE_API URaceOnLifeLibrary : public UBlueprintFunctionLibrary
 	
 public:
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|Sound")
-    TArray<FString> GetInputDevices();
+    static TArray<FString> GetInputDevices();
     
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|Sound")
-    TArray<FString> GetOutputDevices();
+    static TArray<FString> GetOutputDevices();
 
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|Sound")
-    bool SetOutputDevice(const FString& DeviceName);
+    static bool SetOutputDevice(const FString& DeviceName);
 
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|Sound")
-    FString GetCurrentInputDevice();
+    static FString GetCurrentInputDevice();
 
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|Sound")
-    FString GetCurrentOutputDevice();
+    static FString GetCurrentOutputDevice();
 
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|Sound")
-    bool SetInputDevice(const FString& DeviceName);
+    static bool SetInputDevice(const FString& DeviceName);
 
     UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|VehicleSpawn")
     static AActor* GetClosestActorOfClass(TSubclassOf<AActor> ActorClass, APawn* PawnReference);
@@ -45,6 +45,9 @@ public:
      */
     UFUNCTION(BlueprintPure, Category = "RaceOnLife Library|Football")
     static FVector CalculateImpulse(UCameraComponent* CameraComponent, float VehicleSpeed);
+
+    UFUNCTION(BlueprintCallable, Category = "RaceOnLife Library|AntiAliasing")
+    static void SetAntiAliasing(int32 Method);
 
     /* 
 
