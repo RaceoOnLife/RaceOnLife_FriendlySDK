@@ -1,9 +1,9 @@
-
-
 #pragma once
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "Core/lib_types.h"
+#include "RuntimeAudioImporterLibrary.h"
 #include "VehicleRadioComponent.generated.h"
 
 
@@ -13,7 +13,6 @@ class RACEONLIFE_LIB_API UVehicleRadioComponent : public UActorComponent
 	GENERATED_BODY()
 
 public:	
-	// Sets default values for this component's properties
 	UVehicleRadioComponent();
 
 protected:
@@ -23,22 +22,22 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Music")
-    TArray<FString> DefaultMusicLibrary;
+    TArray<FMusicStruct> DefaultMusicLibrary;
 
     UFUNCTION(BlueprintCallable, Category = "Music")
-    void PlayTrack(int32 TrackID);
+    void PlayTrack(FMusicStruct MusicData, USoundAttenuation* AttenuationSettings);
 
     UFUNCTION(BlueprintCallable, Category = "Music")
     void ToggleRepeat();
 
     UFUNCTION(BlueprintCallable, Category = "Music")
-    void PlayNextTrack(bool IsUserChangedTrack);
+    FMusicStruct PlayNextTrack(TArray<FMusicStruct> MusicLibrary, bool IsUserChangedTrack);
 
     UFUNCTION(BlueprintCallable, Category = "Music")
-    void PlayPreviousTrack();
+    FMusicStruct PlayPreviousTrack(TArray<FMusicStruct> MusicLibrary);
 
     UFUNCTION(BlueprintCallable, Category = "Music")
-    void PauseTrack();
+    void PauseTrack(FMusicStruct MusicData);
 
     UFUNCTION(BlueprintCallable, Category = "Music")
     void AdjustVolume(bool IsVolumeUp);
@@ -49,10 +48,35 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Music")
     float GetMusicTimecode() const;
 
+    UFUNCTION(BlueprintCallable, Category = "Music")
+    void ImportMusicFromDisk(FString Path);
+
+    UFUNCTION(BlueprintCallable, Category = "Music")
+    UTexture2D* ImportImageAsTexture2D(FString ImagePath);
+
+    UPROPERTY(BlueprintReadWrite, Category = "Music")
+    FMusicStruct CurrentPlayingMusic;
+
+    UPROPERTY(BlueprintReadWrite, Category = "Music")
+    TArray<FMusicStruct> MusicPlaylist;
+
+    UFUNCTION(BlueprintCallable, BlueprintPure, Category = "Music")
+    bool GetIsRepeatEnabled() { return bIsRepeatEnabled; }
+
+    UFUNCTION(BlueprintCallable, Category = "Music")
+    TArray<FMusicStruct> GetImportedMusic() { return ImportedMusic; }
+
+    UFUNCTION(BlueprintCallable, Category = "Music")
+    float GetCurrentMusicVolume() { return MusicVolume; }
+
 private:
-    int32 CurrentTrackID;
+    UFUNCTION()
+    void OnAudioImportCompleted(URuntimeAudioImporterLibrary* Importer, UImportedSoundWave* ImportedSoundWave, ERuntimeImportStatus Status);
+
     bool bIsRepeatEnabled;
-    bool bIsTrackPaused;
-    float CurrentTimecode;
-    float Volume;
+    float MusicVolume;
+
+    FString FilePath;
+
+    TArray<FMusicStruct> ImportedMusic;
 };

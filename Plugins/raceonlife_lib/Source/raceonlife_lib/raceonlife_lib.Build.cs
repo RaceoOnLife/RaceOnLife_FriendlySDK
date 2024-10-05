@@ -38,6 +38,7 @@ public class raceonlife_lib : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+                "RuntimeAudioImporter"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
