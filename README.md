@@ -82,15 +82,12 @@ Our program enables two players to place a bet, with funds held in escrow until 
 - **Escrow:** Funds are transferred to escrow from both players.
 
 ### 2. Settle Bet
-- **Winner:** Player 1 (default) receives 90% of the bet.
-- **Commission:** 10% goes to the commission account.
+- **Winner:** Winner receives 90% of the bet.
+- **Commission:** 10% goes as commision (described more exactly in our Buismess model).
 
 ## Program ID
 
 - **Deployed on Sonic Devnet:** `4yTRVbWqfvr8TGLpFhGof33aJ9LKaFMWDo5upjJnMB4m`
-
-
-This version should be clearer and more to the point!
 
 ## License
 
