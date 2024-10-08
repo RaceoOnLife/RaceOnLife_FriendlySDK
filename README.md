@@ -67,7 +67,6 @@ For more information, visit our [official website](https://raceonlife.com/) or c
 
 Here’s a more concise version of your README:
 
----
 
 # Solana Program
 
