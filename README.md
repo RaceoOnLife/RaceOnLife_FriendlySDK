@@ -65,8 +65,6 @@ Download RaceOnLife for free and start your adventure today. Whether you're a se
 
 For more information, visit our [official website](https://raceonlife.com/) or check out our [whitepaper](https://raceonlife.gitbook.io/raceonlife/).
 
-Here’s a more concise version of your README:
-
 
 # Solana Program
 
