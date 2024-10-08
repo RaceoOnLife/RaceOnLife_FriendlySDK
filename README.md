@@ -65,6 +65,36 @@ Download RaceOnLife for free and start your adventure today. Whether you're a se
 
 For more information, visit our [official website](https://raceonlife.com/) or check out our [whitepaper](https://raceonlife.gitbook.io/raceonlife/).
 
+Here’s a more concise version of your README:
+
+---
+
+# Solana Program
+
+## Overview
+
+Our program enables two players to place a bet, with funds held in escrow until the winner is determined. The winner receives 90% of the total bet amount, and 10% is allocated as commission, as it was mentioned in our Buisness model.
+
+**Note:** Deployed on **Sonic Devnet** (We faced some probelms with deployment on Sonic Testnet).
+
+## Key Functions
+
+### 1. Place Bet
+- **Players:** Two players place an equal bet.
+- **Escrow:** Funds are transferred to escrow from both players.
+
+### 2. Settle Bet
+- **Winner:** Player 1 (default) receives 90% of the bet.
+- **Commission:** 10% goes to the commission account.
+
+## Program ID
+
+- **Deployed on Sonic Devnet:** `4yTRVbWqfvr8TGLpFhGof33aJ9LKaFMWDo5upjJnMB4m`
+
+---
+
+This version should be clearer and more to the point!
+
 ## License
 
 This project is licensed under a proprietary license - see the [LICENSE.md](LICENSE.md) file for details.
