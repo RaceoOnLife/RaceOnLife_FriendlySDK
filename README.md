@@ -10,15 +10,15 @@
 
 # RaceOnLife
 
-Welcome to **RaceOnLife**, the revolutionary NFT-based racing game designed to offer a unique "Race and Earn" experience. Dive into a dynamic, tropical world where AAA graphics meet blockchain technology, providing both exhilarating gameplay and real earning potential.
+Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engine, powered by Solana blockchain and advanced AI technology. Inspired by the GTA and Far Cry game series!
 
 ## Overview
 
-**RaceOnLife** is more than just a game; it's an ecosystem where players can race, earn, and interact in an open world. Utilizing the power of the Solana blockchain, our game ensures minimal gas fees and true ownership of in-game assets through NFTs.
+**RaceOnLife** is more than just a game; it's an ecosystem where players can race, earn, and interact in an open world. Utilizing the power of the Solana blockchain, our game ensures minimal gas fees and true ownership of in-game assets through NFTs. Dive into a dynamic, tropical world where AAA graphics meet blockchain technology, providing both exhilarating gameplay and real earning potential.
 
 ### Key Features
 
-- **Advanced Graphics**: Developed with Unreal Engine 5.3 for a truly immersive experience.
+- **Advanced Graphics**: Developed with Unreal Engine 5 for a truly immersive experience.
 - **Blockchain Integration**: Solana blockchain for secure, decentralized asset ownership.
 - **AI-Powered NPCs**: Smart NPCs with complete freedom of action in an open world.
 - **Diverse Game Modes**: Including Car Football, Survival Derby, Speed, Drift, and more.
