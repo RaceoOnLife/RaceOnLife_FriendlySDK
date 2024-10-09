@@ -32,7 +32,7 @@ Experience a variety of game modes:
 - **Speed and Drift**: Showcase your racing skills in speed and drift challenges.
 - **Crown and Bomb**: Unique game modes for an added thrill.
 
-How to Play
+## How to Play
 
 ### Getting Started
 - **Lobby and Player Setup**: After launching the game, you enter the lobby and can optionally scan yourself to create a personalized avatar. Select your preferred game mode from the available options.
