@@ -32,6 +32,39 @@ Experience a variety of game modes:
 - **Speed and Drift**: Showcase your racing skills in speed and drift challenges.
 - **Crown and Bomb**: Unique game modes for an added thrill.
 
+How to Play
+
+### Getting Started
+- **Lobby and Player Setup**: After launching the game, you enter the lobby and can optionally scan yourself to create a personalized avatar. Select your preferred game mode from the available options.
+
+### Game Modes
+- **Football**: Enter the action-packed car football arena! Choose the number of players (from 2 to 8) and create a room. Once the desired number of players join, start the game and select your team—Red or Green. Matches last 5 minutes, and the team scoring the most goals wins. If the score is tied at the end of 5 minutes, the "Golden Goal" rule applies, where the next goal wins.
+
+- **Derby**: In this intense survival mode, players (2 to 10) compete in a demolition derby. Create a room from the main menu and wait in the lobby for others to join. The objective is simple—be the last player standing with a working vehicle.
+
+- **Snake Roads Island (Pre-Alpha)**: This is the primary exploration area of the game. Players can roam the island using cars, motorcycles, trucks, or vans. The current version includes an introductory mission and limited access to the island, providing a sneak peek into the full RaceOnLife experience.
+
+### Controls
+- **Movement**: `W`, `A`, `S`, `D` - Control your vehicle’s movement.
+- **Camera View**: `Mouse` - Use the mouse to adjust the camera view.
+- **Change Camera Mode**: `Q` - Switch between different camera modes.
+- **Handbrake**: `Space` - Activate the handbrake for sharp turns.
+- **Pause**: `Escape` - Pause the game.
+- **Lights**: `F` - Toggle vehicle lights.
+- **Respawn**: `R` - Respawn if your vehicle gets stuck.
+- **Zoom**: `Mouse Wheel` - Zoom in or out.
+- **Nitro Boost**: `Right Mouse Button (RMB)` - Activate nitro during the game. Nitro regenerates automatically over time, giving extra bursts of speed.
+- **Kinetic Energy**: `Left Mouse Button (LMB)` - Unleash kinetic energy for a powerful strike on the ball. Energy recharges every 20 seconds.
+- **Chat**: `T` - Activate the text chat feature to communicate with other players.
+
+### Game Flow
+- **Team Selection**: Once a match begins in Football mode, select your team—Red or Green—and prepare for 5 minutes of non-stop action.
+- **Winning Conditions**: In Football mode, the team or player scoring the most goals within the time limit wins. If the match is tied, "Golden Goal" decides the winner. In Derby mode, the last player with a functioning vehicle wins.
+
+### Island Exploration (Snake Roads Island)
+- **Explore the Island**: Take a tour around the Snake Roads Island using different vehicles such as cars, motorcycles, trucks, and vans. Currently, the island is available in a pre-alpha state, providing a limited preview of upcoming features.
+- **Introductory Mission**: Engage in the introductory mission available on the island to get a feel for the open-world environment and unique racing challenges.
+
 ### Vehicles
 
 - **Cars and Motorcycles**: Own, customize, and upgrade a variety of vehicles.
