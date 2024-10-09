@@ -124,4 +124,4 @@ Our program enables two players to place a bet, with funds held in escrow until 
 
 This project is licensed under a proprietary license - see the [LICENSE.md](LICENSE.md) file for details.
 
-@copyright ©️2024
+Copyright ©️2024
