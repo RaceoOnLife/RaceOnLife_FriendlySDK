@@ -104,7 +104,7 @@ For more information, visit our [official website](https://raceonlife.com/) or c
 
 Our program enables two players to place a bet, with funds held in escrow until the winner is determined. The winner receives 90% of the total bet amount, and 10% is allocated as commission, as it was mentioned in our Buisness model.
 
-**Note:** Deployed on **Sonic Devnet** (We faced some probelms with deployment on Sonic Testnet).
+**Note:** Deployed on **Sonic Devnet**.
 
 ## Key Functions
 
