@@ -23,6 +23,8 @@ Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engin
 - **AI-Powered NPCs**: Smart NPCs with complete freedom of action in an open world.
 - **Diverse Game Modes**: Including Car Football, Survival Derby, Speed, Drift, and more.
 - **Earn Real Money**: Players can earn while playing, making the game accessible and rewarding.
+- **FriendlySDK**: Our goal is to create a dynamic in-game platform where partner developers can integrate their solutions using our FriendlySDK, while simultaneously offering them access to our player base and improving the ecosystem as a whole. We not only provide a platform for Web3 developers to showcase their creations to dedicated player base, but also enhance the gaming experience.
+
 
 ## Gameplay
 
