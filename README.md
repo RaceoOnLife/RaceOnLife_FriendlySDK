@@ -8,7 +8,7 @@
 	  </a>
 </p>
 
-## FriendlySDK (Open Source)
+## FriendlySDK
 
 ### 📖 Overview
 FriendlySDK is an innovative open-source initiative aimed at fostering collaboration within the Solana Web3 development community. By providing a versatile SDK, we empower developers to integrate their unique solutions with a wide array of applications and platforms, enhancing the ecosystem as a whole.
