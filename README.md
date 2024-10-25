@@ -13,24 +13,24 @@
 ### 📖 Overview
 FriendlySDK is an innovative open-source initiative aimed at fostering collaboration within the Solana Web3 development community. By providing a versatile SDK, we empower developers to integrate their unique solutions with a wide array of applications and platforms, enhancing the ecosystem as a whole.
 
-## 🌟 Key Features
+### 🌟 Key Features
 - ** Connect any applications that wish to integrate with each other, not limited to RaceOnLife.
 - ** Access a strategically released portion of our C++ codebase to build and integrate your Web3 solutions.
 - ** Foster collaboration among developers to improve the Solana ecosystem.
 - ** Leverage Rust-based smart contracts for secure transactions and interactions.
 - ** Contribute to a richer, more interconnected Web3 environment.
 
-## 🚀 Why FriendlySDK?
+### 🚀 Why FriendlySDK?
 In our quest to create a vibrant and inclusive ecosystem, we are offering FriendlySDK as an open-source tool for developers on Solana. This SDK allows any applications to integrate with each other, promoting interoperability and collaboration across different platforms and services.
 Our goal is to create a dynamic platform where developers can integrate their solutions using FriendlySDK, offering them access to broader user bases and improving the ecosystem as a whole. This initiative aligns with the core principles of blockchain technology, promoting decentralization and community-driven growth.
 
-## 🛠 How It Works
+### 🛠 How It Works
 - ** Developers can use FriendlySDK to enable their applications to interact seamlessly with others, regardless of the specific platforms involved.
 - ** Users can discover new integrated apps through participating platforms, enhancing engagement and providing diverse experiences.
 - ** By enabling applications to work together, we foster a sense of community and mutual growth within the Solana ecosystem.
 - ** Users can earn rewards, including tokens and NFTs, by engaging with integrated apps from various developers.
 
-## 🔧 Technical Details
+### 🔧 Technical Details
 - ** Designed to be easily integrated into any application or platform.
 Utilizes smart contracts to manage transactions and interactions securely.
 Scalable Solutions: Supports a wide range of use cases, from gaming to DeFi and beyond.
@@ -41,7 +41,7 @@ Access Control: Manage permissions for developers and users to ensure a secure e
 Available to help with any issues or questions.
 Community Forums: Engage with other developers in a collaborative environment for continuous improvement.
 
-## 📝 Acknowledgements
+### 📝 Acknowledgements
 - ** Solana Community: Thanks to the Solana community for their support and tools.
 - ** Contributors: We appreciate all contributors who help make this project better.
 
@@ -62,7 +62,7 @@ Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engin
 - **Diverse Game Modes**: Including Car Football, Survival Derby, Speed, Drift, and more.
 - **Earn Real Money**: Players can earn while playing, making the game accessible and rewarding.
 
-## Gameplay
+### Gameplay
 
 Experience a variety of game modes:
 - **Car Football**: Engage in high-octane football matches with cars.
@@ -108,7 +108,7 @@ Experience a variety of game modes:
 - **Cars and Motorcycles**: Own, customize, and upgrade a variety of vehicles.
 - **Damage and Repairs**: Realistic damage mechanics add to the excitement.
 
-## Economic Model
+### Economic Model
 
 RaceOnLife redefines Free-to-Play and Play-to-Earn models by offering:
 - **Ownership**: Players truly own their in-game assets.
@@ -124,15 +124,15 @@ Our roadmap outlines the exciting future of RaceOnLife:
 
 For detailed roadmap information, visit our [Roadmap](https://raceonlife.gitbook.io/raceonlife/our-plans/roadmap).
 
-## Community
+### Community
 
 Join our vibrant community on [Discord](https://discord.com/invite/bjG9Ef7uxw) and follow us on [Twitter](https://twitter.com/raceonlife) for the latest updates, events, and discussions.
 
-## Getting Started
+### Getting Started
 
 Download RaceOnLife for free and start your adventure today. Whether you're a seasoned racer or a newbie, our game offers something for everyone. Explore, team up, and race to earn your way to the top.
 
-## Contact
+### Contact
 
 For more information, visit our [official website](https://raceonlife.com/) or check out our [whitepaper](https://raceonlife.gitbook.io/raceonlife/).
 
