@@ -82,13 +82,23 @@ Experience a variety of game modes:
 
 ## How to Play
 
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://raceonlife.com/">
+            <img
+                src="https://i.ibb.co/4d6VxVT/raceonlife-githab.png"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
+
 ### Getting Started
 - **Lobby and Player Setup**: After launching the game, you enter the lobby and can optionally scan yourself to create a personalized avatar. Select your preferred game mode from the available options.
 
 ### Game Modes
-- **Football**: Enter the action-packed car football arena! Choose the number of players (from 2 to 8) and create a room. Once the desired number of players join, start the game and select your team—Red or Green. Matches last 5 minutes, and the team scoring the most goals wins. If the score is tied at the end of 5 minutes, the "Golden Goal" rule applies, where the next goal wins.
+- **Football**: Enter the action-packed car football arena! Choose the number of players (from 2 to 8) and create a room. Once the desired number of players join, start the game and select your team-Red or Green. Matches last 5 minutes, and the team scoring the most goals wins. If the score is tied at the end of 5 minutes, the "Golden Goal" rule applies, where the next goal wins.
 
-- **Derby**: In this intense survival mode, players (2 to 10) compete in a demolition derby. Create a room from the main menu and wait in the lobby for others to join. The objective is simple—be the last player standing with a working vehicle.
+- **Derby**: In this intense survival mode, players (2 to 10) compete in a demolition derby. Create a room from the main menu and wait in the lobby for others to join. The objective is simple-be the last player standing with a working vehicle.
 
 - **Snake Roads Island (Pre-Alpha)**: This is the primary exploration area of the game. Players can roam the island using cars, motorcycles, trucks, or vans. The current version includes an introductory mission and limited access to the island, providing a sneak peek into the full RaceOnLife experience.
 
@@ -105,8 +115,18 @@ Experience a variety of game modes:
 - **Kinetic Energy**: `Left Mouse Button (LMB)` - Unleash kinetic energy for a powerful strike on the ball. Energy recharges every 20 seconds.
 - **Chat**: `T` - Activate the text chat feature to communicate with other players.
 
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://raceonlife.com/">
+            <img
+                src="https://i.ibb.co/bPB0VbM/raceonlife-githab1.png"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
+
 ### Game Flow
-- **Team Selection**: Once a match begins in Football mode, select your team—Red or Green—and prepare for 5 minutes of non-stop action.
+- **Team Selection**: Once a match begins in Football mode, select your team-Red or Green-and prepare for 5 minutes of non-stop action.
 - **Winning Conditions**: In Football mode, the team or player scoring the most goals within the time limit wins. If the match is tied, "Golden Goal" decides the winner. In Derby mode, the last player with a functioning vehicle wins.
 
 ### Island Exploration (Snake Roads Island)
@@ -124,6 +144,16 @@ RaceOnLife redefines Free-to-Play and Play-to-Earn models by offering:
 - **Ownership**: Players truly own their in-game assets.
 - **Earnings**: Participate in races and events to earn real money.
 - **Accessibility**: Play without needing a powerful computer or exceptional gaming skills.
+
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://raceonlife.com/">
+            <img
+                src="https://i.ibb.co/7kt1Wmt/raceonlife-githab2.png"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
 
 ## Roadmap
 
@@ -161,6 +191,16 @@ Our program enables two players to place a bet, with funds held in escrow until 
 ### 2. Settle Bet
 - **Winner:** Winner receives 90% of the bet.
 - **Commission:** 10% goes as commision (described more exactly in our Buismess model).
+
+<p align="center" style="box-shadow: 4px 4px;">
+      <a href="https://raceonlife.com/">
+            <img
+                src="https://i.ibb.co/C8Tqf36/raceonlife-githab3.png"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
+</p>
 
 ## License
 
