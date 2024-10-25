@@ -8,11 +8,49 @@
 	  </a>
 </p>
 
+## FriendlySDK (Open Source)
+
+### 📖 Overview
+FriendlySDK is an innovative open-source initiative aimed at fostering collaboration within the Solana Web3 development community. By providing a versatile SDK, we empower developers to integrate their unique solutions with a wide array of applications and platforms, enhancing the ecosystem as a whole.
+
+## 🌟 Key Features
+- ** Connect any applications that wish to integrate with each other, not limited to RaceOnLife.
+- ** Access a strategically released portion of our C++ codebase to build and integrate your Web3 solutions.
+- ** Foster collaboration among developers to improve the Solana ecosystem.
+- ** Leverage Rust-based smart contracts for secure transactions and interactions.
+- ** Contribute to a richer, more interconnected Web3 environment.
+
+## 🚀 Why FriendlySDK?
+In our quest to create a vibrant and inclusive ecosystem, we are offering FriendlySDK as an open-source tool for developers on Solana. This SDK allows any applications to integrate with each other, promoting interoperability and collaboration across different platforms and services.
+Our goal is to create a dynamic platform where developers can integrate their solutions using FriendlySDK, offering them access to broader user bases and improving the ecosystem as a whole. This initiative aligns with the core principles of blockchain technology, promoting decentralization and community-driven growth.
+
+## 🛠 How It Works
+- ** Developers can use FriendlySDK to enable their applications to interact seamlessly with others, regardless of the specific platforms involved.
+- ** Users can discover new integrated apps through participating platforms, enhancing engagement and providing diverse experiences.
+- ** By enabling applications to work together, we foster a sense of community and mutual growth within the Solana ecosystem.
+- ** Users can earn rewards, including tokens and NFTs, by engaging with integrated apps from various developers.
+
+## 🔧 Technical Details
+- ** Designed to be easily integrated into any application or platform.
+Utilizes smart contracts to manage transactions and interactions securely.
+Scalable Solutions: Supports a wide range of use cases, from gaming to DeFi and beyond.
+- ** Smart contracts are developed in Rust for high performance and security.
+Handle token exchanges, rewards distribution, and other interactions between applications.
+Access Control: Manage permissions for developers and users to ensure a secure environment.
+- ** Extensive guides and resources to assist in integrating FriendlySDK.
+Available to help with any issues or questions.
+Community Forums: Engage with other developers in a collaborative environment for continuous improvement.
+
+## 📝 Acknowledgements
+- ** Solana Community: Thanks to the Solana community for their support and tools.
+- ** Contributors: We appreciate all contributors who help make this project better.
+
+Together, we can revolutionize the Web3 ecosystem and set new standards for blockchain applications. Join us in creating a decentralized, community-driven environment with FriendlySDK.
+Feel free to add any additional information or sections that highlight the unique aspects of FriendlySDK. This README now reflects that the SDK is a broader tool for any applications wishing to integrate with each other, not just those related to RaceOnLife.
+
 # RaceOnLife
 
 Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engine, powered by Solana blockchain and advanced AI technology. Inspired by the GTA and Far Cry game series!
-
-## Overview
 
 **RaceOnLife** is more than just a game; it's an ecosystem where players can race, earn, and interact in an open world. Utilizing the power of the Solana blockchain, our game ensures minimal gas fees and true ownership of in-game assets through NFTs. Dive into a dynamic, tropical world where AAA graphics meet blockchain technology, providing both exhilarating gameplay and real earning potential.
 
@@ -23,8 +61,6 @@ Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engin
 - **AI-Powered NPCs**: Smart NPCs with complete freedom of action in an open world.
 - **Diverse Game Modes**: Including Car Football, Survival Derby, Speed, Drift, and more.
 - **Earn Real Money**: Players can earn while playing, making the game accessible and rewarding.
-- **FriendlySDK**: Our goal is to create a dynamic in-game platform where partner developers can integrate their solutions using our FriendlySDK, while simultaneously offering them access to our player base and improving the ecosystem as a whole. We not only provide a platform for Web3 developers to showcase their creations to dedicated player base, but also enhance the gaming experience.
-
 
 ## Gameplay
 
