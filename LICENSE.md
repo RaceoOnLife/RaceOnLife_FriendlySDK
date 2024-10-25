@@ -1,6 +1,6 @@
 # Proprietary License
 
-© 2024 RaceoOnLife. All rights reserved.
+© 2024 RaceOnLife. All rights reserved.
 
 This software and associated documentation files (the "Software") are the exclusive property of RaceoOnLife. 
 
