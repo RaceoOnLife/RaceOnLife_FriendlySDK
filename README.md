@@ -51,13 +51,13 @@ Feel free to add any additional information or sections that highlight the uniqu
 # RaceOnLife
 
 <p align="center" style="box-shadow: 4px 4px;">
-	  <a href="https://raceonlife.com/">
-	    	<img  
-	        	src="https://i.ibb.co/qRvyjqC/1.png"
-	        	alt="144796728"
-	        	width="800px"
-	      	/>
-	  </a>
+      <a href="https://raceonlife.com/">
+            <img
+                src="https://i.ibb.co/GR0ChsB/vQ.png"
+                alt="144796728"
+                width="600px"
+              />
+      </a>
 </p>
 
 Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engine, powered by Solana blockchain and advanced AI technology. Inspired by the GTA and Far Cry game series!
