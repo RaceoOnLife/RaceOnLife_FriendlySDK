@@ -50,6 +50,16 @@ Feel free to add any additional information or sections that highlight the uniqu
 
 # RaceOnLife
 
+<p align="center" style="box-shadow: 4px 4px;">
+	  <a href="https://raceonlife.com/">
+	    	<img  
+	        	src="https://i.ibb.co/qRvyjqC/1.png"
+	        	alt="144796728"
+	        	width="800px"
+	      	/>
+	  </a>
+</p>
+
 Welcome to **RaceOnLife**, an action-adventure online game built on Unreal Engine, powered by Solana blockchain and advanced AI technology. Inspired by the GTA and Far Cry game series!
 
 **RaceOnLife** is more than just a game; it's an ecosystem where players can race, earn, and interact in an open world. Utilizing the power of the Solana blockchain, our game ensures minimal gas fees and true ownership of in-game assets through NFTs. Dive into a dynamic, tropical world where AAA graphics meet blockchain technology, providing both exhilarating gameplay and real earning potential.
@@ -142,8 +152,6 @@ For more information, visit our [official website](https://raceonlife.com/) or c
 
 Our program enables two players to place a bet, with funds held in escrow until the winner is determined. The winner receives 90% of the total bet amount, and 10% is allocated as commission, as it was mentioned in our Buisness model.
 
-**Note:** Deployed on **Sonic Devnet**.
-
 ## Key Functions
 
 ### 1. Place Bet
@@ -153,10 +161,6 @@ Our program enables two players to place a bet, with funds held in escrow until 
 ### 2. Settle Bet
 - **Winner:** Winner receives 90% of the bet.
 - **Commission:** 10% goes as commision (described more exactly in our Buismess model).
-
-## Program ID
-
-- **Deployed on Sonic Devnet:** `4yTRVbWqfvr8TGLpFhGof33aJ9LKaFMWDo5upjJnMB4m`
 
 ## License
 
